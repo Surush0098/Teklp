@@ -1,0 +1,30 @@
+name: News Bot Runner
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'  # هر 20 دقیقه اجرا شو
+  workflow_dispatch:        # اجازه میده دستی هم اجراش کنی
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: دریافت کدها
+        uses: actions/checkout@v3
+
+      - name: نصب پایتون
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: نصب پیش‌نیازها
+        run: |
+          pip install -r requirements.txt
+
+      - name: اجرای ربات
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
