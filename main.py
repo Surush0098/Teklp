@@ -5,13 +5,14 @@ import time
 from datetime import datetime, timedelta
 from time import mktime
 import os
+from bs4 import BeautifulSoup  # ابزار جدید برای استخراج عکس
 
 # دریافت کلیدها
 TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHANNEL_ID = os.environ["CHANNEL_ID"]
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 
-# لیست سایت‌ها (فقط زومیت)
+# لیست سایت‌ها
 RSS_URLS = [
     "https://www.zoomit.ir/feed/",
 ]
@@ -20,10 +21,10 @@ genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash-lite')
 
 def send_to_telegram(message, image_url=None):
-    """ارسال پیام (عکس‌دار یا متنی) به تلگرام"""
+    """ارسال پیام به تلگرام (با عکس یا بدون عکس)"""
     try:
         if image_url:
-            # اگر عکس داشت، با متد sendPhoto میفرستیم
+            print(f"ارسال عکس: {image_url}")
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
             data = {
                 "chat_id": CHANNEL_ID,
@@ -32,7 +33,7 @@ def send_to_telegram(message, image_url=None):
                 "parse_mode": "Markdown"
             }
         else:
-            # اگر عکس نداشت، با متد sendMessage میفرستیم
+            print("ارسال بدون عکس")
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
             data = {
                 "chat_id": CHANNEL_ID,
@@ -41,9 +42,33 @@ def send_to_telegram(message, image_url=None):
             }
             
         response = requests.post(url, data=data)
-        print(f"وضعیت ارسال: {response.status_code}")
+        if response.status_code != 200:
+            print(f"خطای تلگرام: {response.text}")
     except Exception as e:
-        print(f"خطا در ارسال به تلگرام: {e}")
+        print(f"خطا در ارسال: {e}")
+
+def extract_image(entry):
+    """تلاش برای پیدا کردن عکس به هر روش ممکن"""
+    # روش ۱: بررسی مدیا کانتنت (استاندارد RSS)
+    if 'media_content' in entry:
+        for media in entry.media_content:
+            if 'url' in media:
+                return media['url']
+    
+    # روش ۲: بررسی لینک‌های ضمیمه
+    if 'links' in entry:
+        for link in entry.links:
+            if link.type.startswith('image/'):
+                return link.href
+                
+    # روش ۳: جستجو داخل متن خبر با BeautifulSoup (مخصوص زومیت)
+    if 'summary' in entry:
+        soup = BeautifulSoup(entry.summary, 'html.parser')
+        img_tag = soup.find('img')
+        if img_tag and 'src' in img_tag.attrs:
+            return img_tag['src']
+            
+    return None
 
 def summarize_with_ai(title, content):
     prompt = f"""
@@ -53,9 +78,9 @@ def summarize_with_ai(title, content):
 
     وظایف:
     1. یک متن جذاب، کوتاه و مفید (حدود 3 خط) بنویس.
-    2. اصلا لینک منبع نگذار.
-    3. ایموجی مرتبط استفاده کن.
-    4. در آخر متن فقط بنویس: 🆔 @Teklp
+    2. لینک منبع نگذار.
+    3. از ایموجی‌های تکنولوژی استفاده کن.
+    4. خط آخر فقط بنویس: 🆔 @Teklp
     """
     try:
         response = model.generate_content(prompt)
@@ -65,7 +90,6 @@ def summarize_with_ai(title, content):
 
 def check_feeds():
     print("بررسی اخبار جدید...")
-    # بررسی اخبار 30 دقیقه اخیر
     time_threshold = datetime.now() - timedelta(minutes=30)
     
     for url in RSS_URLS:
@@ -76,26 +100,15 @@ def check_feeds():
                     pub_date = datetime.fromtimestamp(mktime(entry.published_parsed))
                     
                     if pub_date > time_threshold:
-                        print(f"خبر جدید: {entry.title}")
+                        print(f"خبر پیدا شد: {entry.title}")
                         
-                        # پیدا کردن عکس خبر
-                        image_url = None
-                        if 'links' in entry:
-                            for link in entry.links:
-                                if link.type == 'image/jpeg' or link.type == 'image/png':
-                                    image_url = link.href
-                                    break
-                        # اگر در لینک‌ها نبود، گاهی در enclosures هست
-                        if not image_url and hasattr(entry, 'enclosures'):
-                             for enclosure in entry.enclosures:
-                                if 'image' in enclosure.type:
-                                    image_url = enclosure.href
-                                    break
-
+                        # استخراج عکس با تابع جدید
+                        image_url = extract_image(entry)
+                        
+                        # خلاصه سازی
                         summary = summarize_with_ai(entry.title, entry.summary)
                         
                         if summary:
-                            # تیتر را هم به متن اضافه میکنیم
                             final_text = f"🔥 **{entry.title}**\n\n{summary}"
                             send_to_telegram(final_text, image_url)
                             time.sleep(5)
