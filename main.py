@@ -99,7 +99,7 @@ def check_feeds():
     history_links = [line.split("|")[0] for line in history_lines]
     
     # بررسی 40 دقیقه اخیر (امن برای اجرای 30 دقیقه‌ای)
-    time_threshold = datetime.now() - timedelta(minutes=60)
+    time_threshold = datetime.now() - timedelta(minutes=150)
     
     for url in RSS_URLS:
         try:
