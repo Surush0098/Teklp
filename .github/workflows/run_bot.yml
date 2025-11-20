@@ -2,11 +2,11 @@ name: News Bot Runner
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *'  # هر 30 دقیقه اجرا میشود
+  workflow_dispatch:        # اجازه اجرای دستی
 
 permissions:
-  contents: write  # <--- این خط حیاتی است: اجازه نوشتن به ربات می‌دهد
+  contents: write           # مجوز برای ذخیره فایل هیستوری
 
 jobs:
   build:
