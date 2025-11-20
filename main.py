@@ -12,12 +12,12 @@ TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHANNEL_ID = os.environ["CHANNEL_ID"]
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 
-# منبع: فقط زومیت
+# منبع: زومیت
 RSS_URLS = [
     "https://www.zoomit.ir/feed/",
 ]
 
-# مدل جدید با ظرفیت بالا (1000 درخواست در روز)
+# مدل قدرتمند با سهمیه 1000 تایی
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-2.5-flash-lite')
 
@@ -46,12 +46,15 @@ def check_is_duplicate_topic(new_title, history_lines):
     prompt = f"""
     لیست تیترهای اخیر: {recent_titles}
     تیتر جدید: '{new_title}'
-    آیا این تیتر جدید دقیقاً همان خبری است که قبلاً در لیست بالا بوده؟ (حتی با کلمات متفاوت).
+    آیا این تیتر جدید دقیقاً همان خبری است که قبلاً فرستادیم؟ (حتی اگر کلماتش کمی فرق دارد).
     فقط بنویس: YES یا NO
     """
     try:
-        return "YES" in model.generate_content(prompt).text.strip().upper()
-    except: return False
+        res = model.generate_content(prompt).text.strip().upper()
+        time.sleep(2)
+        return "YES" in res
+    except: 
+        return False
 
 def send_to_telegram(message, image_url=None):
     try:
@@ -66,7 +69,6 @@ def send_to_telegram(message, image_url=None):
     except Exception as e: print(f"Send Error: {e}")
 
 def extract_image(entry):
-    # استخراج عکس مخصوص زومیت
     try:
         if 'media_content' in entry: return entry.media_content[0]['url']
         if 'links' in entry:
@@ -80,25 +82,37 @@ def extract_image(entry):
     return None
 
 def summarize_with_ai(title, content):
+    # دستور آپدیت شده با طول متن بیشتر (5 تا 11 خط)
     prompt = f"""
-    تو ادمین کانال تکنولوژی هستی.
-    خبر: {title}
-    متن: {content}
+    تو سردبیر ارشد یک کانال تکنولوژی فارسی هستی.
+    تیتر خبر: {title}
+    متن خبر: {content}
 
-    وظایف:
-    1. یک خلاصه جذاب و کوتاه (حدود 3 خط) به فارسی بنویس.
-    2. لینک منبع نگذار.
-    3. از ایموجی استفاده کن.
-    4. در آخر بنویس: 🆔 @Teklp
+    وظایف تو:
+    1. **خلاصه سازی دقیق:** متن را تحلیل کن و نکات جذاب، اعداد و ارقام مهم و جزئیات فنی را بیرون بکش.
+    2. **طول متن:** دستت باز است. متن باید "کامل و پرمحتوا" باشد (بین 5 تا 11 خط). اگر خبر مهمی است، تا 11 خط بنویس تا حق مطلب ادا شود. اگر خبر کوتاه است، همان 5 خط کافیست.
+    3. **لحن:** حرفه‌ای، روان و ژورنالیستی (نه خشک، نه لودگی). از ایموجی‌های مرتبط استفاده کن.
+    4. **پاورقی هوشمند (بسیار مهم):**
+       - اگر در متن اسم شرکت، استارتاپ، تکنولوژی خاص یا فردی آمده که "گمنام" است (۹۰٪ مخاطبان عام نمی‌شناسند) و در متن توضیحی ندارد:
+       - در انتهای پیام یک خط با علامت 💡 اضافه کن و خیلی کوتاه و مفید (نصف خط) آن را معرفی کن.
+       - مثال: "💡 آنتروپیک: استارتاپ هوش مصنوعی رقیب OpenAI."
+       - اگر همه چیز معروف بود (مثل اپل، سامسونگ، ایلان ماسک)، این بخش را کلاً ننویس.
+    
+    5. **قالب بندی:**
+       - هیچ لینکی در متن نگذار.
+       - در خط آخر فقط بنویس: 🆔 @Teklp
     """
-    try: return model.generate_content(prompt).text
+    try: 
+        response = model.generate_content(prompt).text
+        time.sleep(4) 
+        return response
     except: return None
 
 def check_feeds():
     history_lines = load_history()
     history_links = [line.split("|")[0] for line in history_lines]
     
-    # بررسی 40 دقیقه اخیر (امن برای اجرای 30 دقیقه‌ای)
+    # تایم 150 دقیقه برای اطمینان کامل
     time_threshold = datetime.now() - timedelta(minutes=150)
     
     for url in RSS_URLS:
@@ -110,11 +124,13 @@ def check_feeds():
                     
                     if pub_date > time_threshold:
                         if entry.link in history_links: continue
+                        
                         if check_is_duplicate_topic(entry.title, history_lines):
                             save_to_history(entry.link, entry.title)
                             continue
                         
                         summary = summarize_with_ai(entry.title, entry.summary)
+                        
                         if summary:
                             final_text = f"🔥 **{entry.title}**\n\n{summary}"
                             send_to_telegram(final_text, extract_image(entry))
