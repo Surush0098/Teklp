@@ -2,8 +2,11 @@ name: News Bot Runner
 
 on:
   schedule:
-    - cron: '*/20 * * * *'  # هر 20 دقیقه اجرا شو
-  workflow_dispatch:        # اجازه میده دستی هم اجراش کنی
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write  # <--- این خط حیاتی است: اجازه نوشتن به ربات می‌دهد
 
 jobs:
   build:
@@ -12,6 +15,11 @@ jobs:
     steps:
       - name: دریافت کدها
         uses: actions/checkout@v3
+
+      - name: تنظیمات گیت
+        run: |
+          git config --global user.name "News Bot"
+          git config --global user.email "bot@noreply.github.com"
 
       - name: نصب پایتون
         uses: actions/setup-python@v4
