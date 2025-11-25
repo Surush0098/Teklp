@@ -295,3 +295,4 @@ https://www.zoomit.ir/space/452489-do-cores-dead-stars-exist-forever/|آیا ه�
 https://www.zoomit.ir/tech-iran/452638-new-fuel-pricing/|نرخ سوم بنزین اعلام شد: لیتری ۵۰۰۰ تومان + جزئیات مهم
 https://www.zoomit.ir/tech/452590-ibm-cisco-lay-foundations-quantum-internet/|دو شرکت سرشناس، اینترنت کوانتومی را پایه‌گذاری می‌کنند
 https://www.zoomit.ir/tech-iran/452644-supply-of-low-sulfur-mazut-to-power-plants/|آغاز تزریق مازوت کم‌سولفور به نیروگاه‌ها؛ گامی برای کاهش آلودگی هوا
+https://www.zoomit.ir/processor/452619-teslas-ai5-chip-made-samsung/|سامسونگ پردازنده پیشرفته‌ای برای شرکت خودروسازی ایلان ماسک می‌سازد
