@@ -658,3 +658,4 @@ https://www.zoomit.ir/pr/452971-shopfa/|شاپفا: چک‌لیست صفر تا 
 https://www.zoomit.ir/software-application/452966-windows-11-file-explorer-still-slower-windows-10/|فایل اکسپلورر ویندوز ۱۱ همچنان کندتر از ویندوز ۱۰ است
 https://www.zoomit.ir/ai-articles/452984-avatar-director-james-cameron-says-generative-ai-horrifying/|کارگردان فیلم آواتار: هوش مصنوعی وحشتناک است
 https://www.zoomit.ir/processor/452923-amd-ryzen-7-9850x3d-3d-v-cache/|ای‌ام‌دی با پردازنده پرقدرت 9850X3D به استقبال گیمرها می‌رود
+https://www.zoomit.ir/tech-iran/452989-fofo-vs-fomo-fear-of-finding-out/|ترس از حقیقت یا FOFO؛ مکانیزم دفاعی ذهن در برابر رگبار خبرهای بد
