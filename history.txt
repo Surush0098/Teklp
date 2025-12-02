@@ -733,3 +733,4 @@ https://www.zoomit.ir/wearables/453036-xreal-1s-e-automatic-2d-to-3d-video-conve
 https://www.zoomit.ir/ai-articles/453001-essential-gemini-gems-productivity-guide/|قابلیت Gems در جمنای: هرآنچه برای ساخت هوش مصنوعی سفارشی خود باید بدانید
 https://www.zoomit.ir/space/453057-russia-loses-human-spaceflight-capability/|تخریب سکوی پرتاب بایکونور؛ روسیه برای نخستین‌بار توانایی اعزام فضانورد را از دست داد
 https://www.zoomit.ir/tech-iran/453077-digikala-black-friday-1404-sales-data/|فروش ۱۵ هزار میلیارد تومانی دیجی‌کالا در بلک‌فرایدی ۱۴۰۴
+https://www.zoomit.ir/fundamental-science/453010-llms-will-never-be-intelligent/|رؤیای ماشین‌های متفکر دست‌یافتنی نیست؛ مدل‌های زبانی هرگز به هوش واقعی نمی‌رسند
