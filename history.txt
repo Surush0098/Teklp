@@ -885,3 +885,4 @@ https://www.zoomit.ir/fundamental-science/453191-new-search-for-mh370-flight/|د
 https://www.zoomit.ir/internet-network/453241-cloudflare-down-december-2025/|قطعی کلادفلر بخش بزرگی از اینترنت را فلج کرد
 https://www.zoomit.ir/os/453220-after-30-years-microsoft-redesigning-run-dialog-box/|پس از ۳۰ سال، Run ویندوز سرانجام بازطراحی شد
 https://www.zoomit.ir/processor/453237-amd-ryzen-7-9850x3d-cpu-benchmarks-leak/|بنچمارک تراشه 9850X3D لو رفت؛ محصول هیجان‌انگیز ای‌ام‌دی برای گیمرها
+https://www.zoomit.ir/ai-articles/453236-virtual-haircut-grid-prompt/|شبیه‌سازی مدل مو با هوش مصنوعی برای همه؛ راهنمای انتخاب استایل جدید
