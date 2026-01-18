@@ -1395,3 +1395,4 @@ https://www.zoomit.ir/iran-news/455701-nobitex-free-wage/|در پی اختلال
 https://www.zoomit.ir/zoomplus/455702-zoomit-sign-up-bug-fixed/|مشکل ثبت‌نام در زومیت و تغییر رمز عبور با ارسال پیامک حل شد
 https://www.zoomit.ir/iran-news/455706-google-is-available/|دسترسی به گوگل با اپراتور همراه اول امکان‌پذیر شد
 https://www.zoomit.ir/iran-news/455704-internet-will-be-available-on-tuesday/|نماینده مجلس: اینترنت بین‌الملل حداکثر تا سه‌شنبه وصل می‌شود
+https://www.zoomit.ir/mobile-learning/455694-android-iphone-setup-no-internet/|نبود اینترنت حتی راه‌اندازی گوشی اندروید و آیفون را هم به معضل تبدیل کرده است
