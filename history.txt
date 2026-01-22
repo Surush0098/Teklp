@@ -1434,3 +1434,4 @@ https://www.zoomit.ir/iran-news/455814-why-some-vpns-works-during-internet-shutd
 https://www.zoomit.ir/op-ed/455821-dependence-of-iranian-messengers-and-search-engines/|آیا پیام‌رسان و موتور جست‌وجوی بومی واقعا نیازمند سرور دولتی است؟
 https://www.zoomit.ir/pr/455443-drmiadmahdavi/|کانتورینگ صورت و مهندسی چهره؛ بررسی تکنیکال زاویه‌سازی بدون جراحی با «دکتر میعاد مهدوی»
 https://www.zoomit.ir/tech-iran/455822-mci-internet-is-back/|اینترنت همراه اول وصل شد
+https://www.zoomit.ir/iran-news/455823-access-to-internet-via-irancell-operator/|دسترسی به اینترنت بین‌الملل برای کاربران اپراتور ایرانسل امکان‌پذیر شد
