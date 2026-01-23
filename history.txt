@@ -1442,3 +1442,4 @@ https://www.zoomit.ir/ai-tutorials/455811-ollama-run-local-llm-guide/|هوش م�
 https://www.zoomit.ir/op-ed/455829-internet-shutdown-stopped-technology-development/|قطعی اینترنت چرخه‌ توسعه را متوقف می‌کند؛ یادداشتی از هم‌بنیان‌گذار انجمن هوش مصنوعی
 https://www.zoomit.ir/iran-news/455831-tehran-schools-closed-online-4-bahman/|مدارس تهران شنبه ۴ بهمن غیرحضوری شد؛ امتحانات داخلی لغو شد
 https://www.zoomit.ir/iran-news/455830-restriction-of-internet-traffic/|نمودار کلادفلر از کاهش شدید پهنای باند ایران خبر می‌دهد
+https://www.zoomit.ir/iran-news/455833-tehran-offices-closed-schools-universities-online-4-bahman/|تعطیلی گسترده ادارات، مدارس و دانشگاه‌ها در چندین استان؛ آموزش مجازی شد
