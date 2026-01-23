@@ -1440,3 +1440,4 @@ https://www.zoomit.ir/iran-news/455826-internet-shutdown-obsolete-firouzabadi-in
 https://www.zoomit.ir/tech-iran/455824-pezeshkian-internet-failure-promises/|وعده‌هایی که عملی نشد؛ پزشکیان و آزمون شکست‌خورده اینترنت
 https://www.zoomit.ir/ai-tutorials/455811-ollama-run-local-llm-guide/|هوش مصنوعی بدون نیاز به اینترنت؛ راهنمای جامع اجرای آفلاین مدل‌ها با Ollama
 https://www.zoomit.ir/op-ed/455829-internet-shutdown-stopped-technology-development/|قطعی اینترنت چرخه‌ توسعه را متوقف می‌کند؛ یادداشتی از هم‌بنیان‌گذار انجمن هوش مصنوعی
+https://www.zoomit.ir/iran-news/455831-tehran-schools-closed-online-4-bahman/|مدارس تهران شنبه ۴ بهمن غیرحضوری شد؛ امتحانات داخلی لغو شد
