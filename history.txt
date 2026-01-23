@@ -1438,3 +1438,4 @@ https://www.zoomit.ir/iran-news/455823-access-to-internet-via-irancell-operator/
 https://www.zoomit.ir/computer-learning/455782-best-local-mirror-services/|بهترین سرویس های mirror داخلی؛ آخرین سنگر برنامه‌نویسان و توسعه‌دهندگان در بی‌اینترنتی
 https://www.zoomit.ir/iran-news/455826-internet-shutdown-obsolete-firouzabadi-interview-criticism/|فیروزآبادی: ابزار قطع اینترنت به زودی از دست حکومت‌ها خارج می‌شود؛ باید راه‌حل‌های جایگزین پیدا کنیم
 https://www.zoomit.ir/tech-iran/455824-pezeshkian-internet-failure-promises/|وعده‌هایی که عملی نشد؛ پزشکیان و آزمون شکست‌خورده اینترنت
+https://www.zoomit.ir/ai-tutorials/455811-ollama-run-local-llm-guide/|هوش مصنوعی بدون نیاز به اینترنت؛ راهنمای جامع اجرای آفلاین مدل‌ها با Ollama
