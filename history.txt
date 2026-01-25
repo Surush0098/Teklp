@@ -1465,3 +1465,4 @@ https://www.zoomit.ir/iran-news/455864-internet-access-for-businesses-not-all-pe
 https://www.zoomit.ir/iran-news/455870-delay-in-connecting-internet/|فارس: مشکلات فنی، اتصال اینترنت بین‌الملل را به تاخیر انداخته است
 https://www.zoomit.ir/iran-news/455869-maher-has-not-been-hacked/|تکذیب نفوذ به زیرساخت‌های مرکز ماهر توسط پایگاه اطلاع‌رسانی دولت
 https://www.zoomit.ir/op-ed/455873-optimic-vs-fibre-in-iran/|باخت سه بر صفر فیبرنوری به استارلینک
+https://www.zoomit.ir/internet-network/455871-how-does-china-s-great-firewall-work/|دیوار آتش بزرگ؛ سیستم فیلترینگ چین چطور کار می‌کند
