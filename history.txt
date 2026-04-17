@@ -1876,3 +1876,4 @@ https://www.zoomit.ir/mobile/458868-xiaomi-18-pro-renders-leaked/|شیائومی
 https://www.zoomit.ir/headset/458881-xiaomi-redmi-buds-8-anc-soon/|هندزفری ردمی بادز ۸ شیائومی به‌زودی با سیستم حذف نویز پیشرفته معرفی می‌شود
 https://www.zoomit.ir/ai-articles/458880-openai-codex-mac-automation-update/|هوش مصنوعی Codex با توانایی کنترل مستقیم مک آپدیت شد
 https://www.zoomit.ir/security/458877-microsoft-faces-fresh-windows-recall-security-concerns/|کابوس تمام‌نشدنی مایکروسافت؛ ویژگی جنجالی «ریکال» ویندوز دوباره زیر تیغ انتقادات امنیتی رفت
+https://www.zoomit.ir/security/458897-eu-age-verification-app-hacked-security-flaw/|اپلیکیشن رسمی اتحادیه اروپا برای احراز سن کاربران، در کمتر از ۲ دقیقه هک شد
