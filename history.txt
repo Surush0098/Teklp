@@ -2055,3 +2055,4 @@ https://www.zoomit.ir/processor/459352-amd-intel-ace-architecture-x86-ai/|اتح
 https://www.zoomit.ir/iran-news/459353-rural-internet-support-plan/|معاون رئیس‌جمهور خواستار اینترنت پرو به یک‌چهارم قیمت برای کسب‌وکارهای روستایی و عشایری شد
 https://www.zoomit.ir/ai-articles/459354-elon-musk-xai-used-openai-models/|ایلان ماسک تأیید کرد: xAI از مدل‌های OpenAI برای آموزش Grok استفاده کرده است
 https://www.zoomit.ir/mobile/459355-iphone-17-pro-air-charging-issue-bug/|گزارش کاربران آیفون ۱۷ پرو از نقصی عجیب؛ وقتی شارژ باتری خالی می‌شود، کابل USB-C کار نمی‌کند!
+https://www.zoomit.ir/ai-articles/459320-chatgpt-downloads-slowing/|آمار دانلود چت‌جی‌پی‌تی؛ دیگر خبری از رشد انفجاری نیست
