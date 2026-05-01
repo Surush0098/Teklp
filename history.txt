@@ -2051,3 +2051,4 @@ https://www.zoomit.ir/mobile/459343-iphone-17-apple-lineup-ever/|آیفون ۱۷
 https://www.zoomit.ir/wearables/459312-apple-ai-glasses-hand-gesture-rumor/|عینک هوشمند اپل احتمالا از ژست‌های حرکتی دست پشتیبانی می‌کند
 https://www.zoomit.ir/os/459350-microsoft-xbox-mode-windows-11-release/|رابط کاربری تمام‌صفحه ایکس‌باکس به ویندوز ۱۱ آمد؛ تجربه کنسول روی پی‌سی
 https://www.zoomit.ir/economics/459348-samsung-new-quarterly-report-2026/|گزارش مالی سامسونگ منتشر شد؛ کاهش درآمد موبایل و ادامه بحران در بازار حافظه
+https://www.zoomit.ir/processor/459352-amd-intel-ace-architecture-x86-ai/|اتحاد رقبای دیرینه؛ اینتل و AMD سرعت پردازش هوش مصنوعی را ۱۶ برابر می‌کنند
