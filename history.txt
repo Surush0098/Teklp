@@ -2143,3 +2143,4 @@ https://www.zoomit.ir/ai-articles/459594-openai-new-voice-agent-details/|هوش 
 https://www.zoomit.ir/economics/459597-sandisk-shares-rise-data/|رشد اعجاب‌انگیز؛ یک شرکت سخت‌افزاری سهام‌دارانش را ثروتمند کرد
 https://www.zoomit.ir/software-news/459603-google-fit-new-health-app-update/|نرم‌افزار ورزشی گوگل فیت بازنشسته می‌شود
 https://www.zoomit.ir/os/459613-windows-11-low-latency-profile-performance-boost/|قابلیت جدید ویندوز ۱۱ سرعت اجرای برنامه‌ها و عملکرد کلی کامپیوتر را تا ۷۰ درصد افزایش می‌دهد
+https://www.zoomit.ir/software-news/459609-openai-codex-extension-chrome/|افزونه هوش مصنوعی Codex برای گوگل کروم منتشر شد
