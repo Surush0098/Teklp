@@ -2230,3 +2230,4 @@ https://www.zoomit.ir/health-medical/459843-heights-make-feet-feel-strange/|چر
 https://www.zoomit.ir/business/459870-china-blocks-nvidia-h200-sales/|ترامپ تأیید کرد؛ چین علاقه‌ای به خرید تراشه‌های هوش مصنوعی آمریکایی ندارد
 https://www.zoomit.ir/security/459889-microsoft-edge-plaintext-password-memory-fix/|عقب‌نشینی مایکروسافت؛ مرورگر اج دیگر رمزهای عبورتان را در رَم رها نمی‌کند
 https://www.zoomit.ir/iran-news/459891-lorestan-nsr-internet-warning-statement/|سازمان نصر استان لرستان: اینترنت باید به‌صورت پایدار، شفاف و برابر در اختیار همه مردم باشد
+https://www.zoomit.ir/ai-articles/459882-chatgpt-new-update-bank-accounts/|هوش مصنوعی ChatGPT حالا به حساب‌های بانکی متصل می‌شود
