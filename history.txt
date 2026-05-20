@@ -2278,3 +2278,4 @@ https://www.zoomit.ir/iran-news/460010-stock-market-liquidity-loan-plan/|طرح 
 https://www.zoomit.ir/op-ed/460071-balancing-between-security-and-internet-access/|آینده ارتباطات کشور: از امنیت تا دسترسی، در جست‌وجوی تعادل در سیاست اینترنت
 https://www.zoomit.ir/iran-news/460069-no-increase-in-fuel-price/|بنزین آزاد دوباره گران می‌شود؟
 https://www.zoomit.ir/iran-news/460068-installment-gold-buying-guide/|خرید قسطی طلا با وال‌گلد؛ چگونه سرمایه‌های کوچک به دارایی امن تبدیل می‌شوند؟
+https://www.zoomit.ir/security/459962-google-password-manager-passkey-transfer/|نرم‌افزار مدیریت رمز عبور گوگل یک آپدیت بسیار کاربردی دریافت می‌کند
