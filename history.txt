@@ -2284,3 +2284,4 @@ https://www.zoomit.ir/iran-news/460061-internet-disruption-damages-business-and-
 https://www.zoomit.ir/pr/460060-jabama-summer-trip-north-iran/|تابستان، با جاباما ارزان‌تر به شمال بروید
 https://www.zoomit.ir/social-network/460063-whatsapp-x-account-arsenal-red/|قهرمانی آرسنال در لیگ جزیره؛ لوگو واتساپ قرمز شد، گوگل آتش‌بازی به راه انداخت
 https://www.zoomit.ir/iran-news/460058-hypertension-treatment-revolution-dr-obidi/|۸۰ سالگی شرکت داروسازی دکتر عبیدی؛ تحول درمان فشار خون بالا با تولید ۷ داروی کلیدی
+https://www.zoomit.ir/security/460081-github-hacked-poisoned-vscode-extension-internal-repos/|کدهای داخلی گیت‌هاب به سرقت رفت؛ افزونه مخرب VS Code عامل نفوذ به سیستم‌ها
