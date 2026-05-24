@@ -2316,3 +2316,4 @@ https://www.zoomit.ir/iran-news/460144-internet-outage-impact-children-digital-i
 https://www.zoomit.ir/internet-network/460139-google-ai-overview-bug-glitch/|اختلال عجیب در گوگل؛ وقتی هوش مصنوعی با یک کلمه ساده گیج می‌شود
 https://www.zoomit.ir/software-news/460133-meta-launches-forum-app/|«فروم» منتشر شد؛ نرم‌افزاری مستقل برای گروه‌های فیسبوکی
 https://www.zoomit.ir/iran-news/460174-best-investment-market-during-crisis-gold-vs-others/|بهترین بازار مالی در بحران کدام است؟ وقتی طلا از بورس، ارز و مسکن جلو می‌زند
+https://www.zoomit.ir/software-news/460152-codex-app-mac-turn-off-control/|نرم‌افزار Codex، کامپیوترهای اپل را حتی هنگام خاموش‌بودن کنترل می‌کند
