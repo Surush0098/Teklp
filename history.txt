@@ -2419,3 +2419,4 @@ https://www.zoomit.ir/report/460456-internet-whitelisting-and-datacenter-disrupt
 https://www.zoomit.ir/wearables/460534-apples-strategy-smart-glasses-smart-watches/|دورخیز اپل برای تسخیر بازار ۲۰۰ میلیارد دلاری عینک‌‌
 https://www.zoomit.ir/iran-news/460552-voluntary-international-internet-shutdown-campaign-iran/|کمپین جدید مخالفان بازگشایی: اینترنت بین‌الملل نمی‌خواهیم
 https://www.zoomit.ir/zoomplus/460553-euphoria-over-hbo-series/|پایان دراماتیک یوفوریا؛ سریال جنجالی شبکه اچ‌بی‌او دیگر پخش نمی‌شود
+https://www.zoomit.ir/desktop/460550-nvidia-dgx-station-gb300-windows-ai-workstation/|دیتاسنتر انویدیا روی میزکار؛ کامپیوتر ویندوزی DGX Station برای اجرای مدل‌های یک تریلیون پارامتری معرفی شد
