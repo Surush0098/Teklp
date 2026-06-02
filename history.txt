@@ -2426,3 +2426,4 @@ https://www.zoomit.ir/laptop/460548-microsoft-surface-laptop-ultra-nvidia-rtx-sp
 https://www.zoomit.ir/processor/460539-nvidia-microsoft-reinvent-windows-pc-rtx-spark/|اتحاد انویدیا و مایکروسافت؛ سوپرتراشه RTX Spark عصر جدیدی را برای کامپیوترهای ویندوزی رقم می‌زند
 https://www.zoomit.ir/laptop/460542-first-confirmed-nvidia-rtx-spark-laptops/|اولین لپ‌تاپ‌های نسل جدید را بشناسید؛ محصولات مجهزبه RTX Spark
 https://www.zoomit.ir/software-news/460541-adobe-premiere-photoshop-optimized-nvidia-spark-laptops/|فتوشاپ و پریمیر برای لپ‌تاپ‌های ویندوزی RTX Spark بهینه می‌شوند
+https://www.zoomit.ir/ai-articles/460596-microsoft-own-data-suggests-ai-more-expensive-hiring-humans/|بر اساس داده‌های مایکروسافت، هزینه هوش مصنوعی از استخدام انسان بیشتر است
