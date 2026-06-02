@@ -2437,3 +2437,4 @@ https://www.zoomit.ir/car/460601-honda-recalls-100000-cars-bad-airbag-sensor/|ن
 https://www.zoomit.ir/iran-news/460618-internet-pro-users-cant-get-refunds-after-full-internet-restoration/|سرنوشت اینترنت پرو پس از کاهش محدودیت‌های اینترنتی؛ با پس دادن اشتراک هزینه آن به جیب برمی‌گردد؟
 https://www.zoomit.ir/iran-news/460636-iran-raises-bank-transaction-limits-for-1405/|بانک مرکزی سقف انتقال و خرید را افزایش داد؛ حداکثر مبلغ کارت به کارت به ۱۵ میلیون تومان رسید
 https://www.zoomit.ir/health-medical/460602-new-way-treat-depression/|دانشمندان می‌گویند راهی جدید برای درمان افسردگی پیدا کرده‌اند
+https://www.zoomit.ir/ai-tutorials/460522-claude-token-management-guide/|چطور مصرف توکن کلاد (Claude) را نصف کنیم؟ راهنمای واقعی و کاربردی
