@@ -2443,3 +2443,4 @@ https://www.zoomit.ir/ai-articles/460680-satya-nadella-put-whole-water-debate-re
 https://www.zoomit.ir/ai-articles/460679-openclaw-runs-natively-windows/|مایکروسافت اجرای ایمن OpenClaw را در ویندوز ممکن می‌کند
 https://www.zoomit.ir/os/460659-microsoft-defender-third-party-antivirus-policy/|موضع مایکروسافت درباره استفاده از آنتی‌ویروس‌ در ویندوز ۱۱ تغییر کرد
 https://www.zoomit.ir/mobile/460673-poland-school-phone-ban-bill/|دولت لهستان، گوشی و ساعت هوشمند را در مدارس ممنوع می‌کند
+https://www.zoomit.ir/mobile/460655-motorola-edge-2026-debuts/|گوشی موتورولا اج ۲۰۲۶ با نمایشگر سریع و دوربین ۵۰ مگاپیکسلی رونمایی شد
