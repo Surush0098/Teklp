@@ -2469,3 +2469,4 @@ https://www.zoomit.ir/business/460782-tsmc-ceo-mocks-samsung-foundry-gap/|بزر
 https://www.zoomit.ir/appliances/460790-xiaomi-launches-smart-fragrance-diffuser/|شیائومی حالا دستگاه پخش‌کننده عطر هوشمند هم می‌سازد
 https://www.zoomit.ir/cryptocurrency/460812-thereum-falls-below-1600/|قیمت اتریوم برای اولین‌بار در یک سال اخیر به زیر ۱٬۶۰۰ دلار رسید
 https://www.zoomit.ir/space/460605-japanese-spacecraft-towards-asteroid-1998-ky26/|ادعای عجیب پژوهشگران: سیارک هدف کاوشگر هایابوسا ۲ احتمالاً منشا طبیعی ندارد
+https://www.zoomit.ir/security/460811-microsoft-edge-goes-passwordless-windows-hello/|آپدیت بزرگ اج؛ مرورگر مایکروسافت به سیستم «ویندوز هلو» مجهز شد
