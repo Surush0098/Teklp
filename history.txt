@@ -2472,3 +2472,4 @@ https://www.zoomit.ir/space/460605-japanese-spacecraft-towards-asteroid-1998-ky2
 https://www.zoomit.ir/security/460811-microsoft-edge-goes-passwordless-windows-hello/|آپدیت بزرگ اج؛ مرورگر مایکروسافت به سیستم «ویندوز هلو» مجهز شد
 https://www.zoomit.ir/os/460810-ios-27-notifications-slide-left/|یکی دیگر از تغییرات ظاهری جالب iOS 27 لو رفت
 https://www.zoomit.ir/os/460808-ios-27-battery-life-improvement/|آپدیت iOS 27 احتمالا شارژدهی آیفون‌ها را طولانی‌تر می‌کند
+https://www.zoomit.ir/cryptocurrency/460804-zec-security-vulnerability-market-cap-fallen/|کشف باگ امنیتی در زیکش؛ ۵ میلیارد دلار از ارزش بازار از بین رفت
