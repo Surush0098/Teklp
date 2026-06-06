@@ -2482,3 +2482,4 @@ https://www.zoomit.ir/iran-news/460829-international-internet-restoration-illega
 https://www.zoomit.ir/iran-news/460827-hamrah-aval-first-digital-shop/|نخستین فروشگاه دیجیتال همراه اول در تهران افتتاح شد؛ ارائه خدمات ۲۴ساعته به مشترکان
 https://www.zoomit.ir/iran-news/460852-housing-loan-guideline-childbearing-families/|ابلاغ وام مسکن برای خانوارهای بدون خانه؛ پرداخت تا سقف ۴۰۰ میلیون تومان
 https://www.zoomit.ir/software-news/460820-chrome-browser-speed-record-2026/|گوگل کروم روی مک‌بوک پرو M5 رکورد سرعت مرورگرها را شکست
+https://www.zoomit.ir/iran-news/460850-internet-outage-ssl-certificate-disruptions/|رئیس کمیسیون اینترنت نصر: رفع مشکل تمدید گواهی‌های امنیتی وب‌سایت‌ها نیازمند اتصال دیتاسنترهاست
