@@ -2514,3 +2514,4 @@ https://www.zoomit.ir/iran-news/460969-all-flights-cancelled-iran/|همه پرو
 https://www.zoomit.ir/ai-articles/460979-new-siri-ai-wwdc2026-official/|«سیری هوش مصنوعی» رونمایی شد؛ بازطراحی عظیم دستیار هوشمند اپل
 https://www.zoomit.ir/mobile/461005-apple-ai-hardware-requirements-iphone-17-pro/|آیفون‌هایی که کمتر از ۱۲ گیگابایت رم دارند، از این ویژگی جدید محروم‌اند
 https://www.zoomit.ir/zoomplus/461016-google-stadium-soccer-ball-world-cup-2026/|گوگل به مناسبت جام جهانی ۲۰۲۶، توپ فوتبال می‌فروشد
+https://www.zoomit.ir/os/461025-ios-27-hints-foldable-iphone-app-resizability-push-wwdc2026/|کدهای پنهان در iOS 27؛ نشانه‌هایی از ظهور آیفون تاشو اپل
