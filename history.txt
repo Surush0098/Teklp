@@ -2521,3 +2521,4 @@ https://www.zoomit.ir/cryptocurrency/460998-sam-bankman-fried-seeks-presidential
 https://www.zoomit.ir/os/461010-apple-intelligence-contextual-call-messages-features-wwdc2026/|نرم‌افزار‌های تماس و پیامک آیفون به هوش مصنوعی مجهز می‌شوند
 https://www.zoomit.ir/business/461019-openai-files-ipo-usa/|خالق ChatGPT برای ورود به بازار بورس اقدام کرد
 https://www.zoomit.ir/software-news/461018-apple-photos-finally-slideshow-maker-wwdc2026/|آپدیت کوچک اما کاربردی در راه نرم‌افزار گالری آیفون
+https://www.zoomit.ir/os/461017-apple-watch-series-9-watchos-27-compatibility-fix-wwdc2026/|گاف عجیب اپل؛ پشتیبانی نرم‌افزاری از ساعت هوشمند «سری ۹» ادامه دارد
