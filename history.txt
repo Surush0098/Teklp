@@ -2536,3 +2536,4 @@ https://www.zoomit.ir/iran-news/461083-illegal-miners-power-consumption/|عضو 
 https://www.zoomit.ir/internet-network/461081-azerbaijan-globally-rank-chatgpt/|پای ایرانی‌ها در میان است؛ رشد خیره‌کننده جمهوری آذربایجان در رتبه‌بندی ChatGPT
 https://www.zoomit.ir/ai-articles/461078-claude-fable-5-build-windows-os/|باورنکردنی؛ هوش مصنوعی جدید انتروپیک نسخه‌ای از ویندوز را ساخت! + ویدیو
 https://www.zoomit.ir/software-news/461075-telegram-apple-watch-app/|نسخه جدید تلگرام منتشر شد؛ پیام‌رسان محبوب روی اپل واچ
+https://www.zoomit.ir/ai-articles/461080-microsoft-ai-mustafa-suleyman-claude-consciousness/|رهبر هوش مصنوعی مایکروسافت: انتروپیک رویکرد بسیار خطرناکی را در پیش گرفته است
