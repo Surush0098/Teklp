@@ -2540,3 +2540,4 @@ https://www.zoomit.ir/ai-articles/461080-microsoft-ai-mustafa-suleyman-claude-co
 https://www.zoomit.ir/car/461076-byd-nio-pentagon-blacklist-challenge/|بزرگ‌ترین خودروساز چین به لیست سیاه وزارت جنگ آمریکا اضافه شد
 https://www.zoomit.ir/ai-articles/461149-anthropic-claude-fable-5-jailbreak/|قفل‌ امنیتی هوش مصنوعی Claude Fable 5 در کمتر از ۴۸ ساعت شکسته شد
 https://www.zoomit.ir/fundamental-science/461121-3d-chips-vertical-moore-law/|تراشه‌های سه‌بعدی جدید راهی برای تداوم قانون مور ارائه می‌دهند
+https://www.zoomit.ir/ai-articles/461134-gemini-chrome-expands-latin-america-middle-east/|نسخه کروم هوش مصنوعی جمنای در خاورمیانه فعال شد
