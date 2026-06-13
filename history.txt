@@ -2560,3 +2560,4 @@ https://www.zoomit.ir/os/461202-huawei-launches-harmonyos-7/|سیستم‌عام
 https://www.zoomit.ir/mobile/461201-samsung-galaxy-a27-5g-launches/|گوشی گلکسی A27 رونمایی شد؛ آپدیت تا سال ۲۰۳۲
 https://www.zoomit.ir/mobile/461194-motorola-moto-g-max-launch/|گوشی موتو G مکس با دوربین ۲۰۰ مگاپیکسلی و نمایشگر پرنور رونمایی شد
 https://www.zoomit.ir/ai-articles/461210-meta-rivos-ai-chip-setbacks/|بن‌بست بزرگ متا؛ تلاش برای تولید تراشه هوش مصنوعی فعلا ادامه دارد
+https://www.zoomit.ir/ai-articles/461218-anthropic-suspends-access-fable-mythos-us-directive/|هوش مصنوعی جدید انتروپیک برای غیرآمریکایی‌ها ممنوع شد؛ پایان دسترسی به فیبل ۵ و میتوس ۵
