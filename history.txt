@@ -2571,3 +2571,4 @@ https://www.zoomit.ir/iran-news/461236-ict-service-operators-launch/|وزیر ا
 https://www.zoomit.ir/iran-news/461232-pakshoma-dream-home-finalists/|۱۰ نفر به مرحله نهایی قرعه‌کشی خانه ۱۵ میلیارد تومانی پاکشوما راه یافتند
 https://www.zoomit.ir/ai-articles/461219-anthropic-ceo-ai-used-iran-school-strike/|مدیرعامل انتروپیک: در مورد نقش هوش مصنوعی ما در جنگ با ایران اطلاعی ندارم
 https://www.zoomit.ir/fundamental-science/461244-clocks-made-atomic-nucleus/|انقلاب تازه در زمان‌سنجی: دانشمندان از هسته اتم به‌عنوان ساعت استفاده کردند
+https://www.zoomit.ir/ai-articles/461256-amazon-researchers-snitched-us-government-about-jailbreaking-fable-5/|جنجال هوش مصنوعی Fable 5؛ پژوهشگران آمازون دولت آمریکا را از خطرات احتمالی مطلع کردند
