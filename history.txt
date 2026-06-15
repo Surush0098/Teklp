@@ -2590,3 +2590,4 @@ https://www.zoomit.ir/tech/461379-samsung-neuralink-fourth-generation-chip/|نس
 https://www.zoomit.ir/iran-news/461378-digipay-new-superapp-redesign-launch/|رونمایی از از نسل جدید سوپراپلیکیشن دیجی‌پی؛ تمرکز بر مدیریت هوشمند مالی کاربران
 https://www.zoomit.ir/iran-news/461376-rare-disease-patients-drug-shortage-crisis/|کمبود دارو و اختلال در خدمات درمانی؛ بیماران نادر زیر فشار بحران‌های پساجنگ
 https://www.zoomit.ir/ai-articles/461375-apple-openclaw-competitor-ai/|اپل شاید درنهایت رقیب OpenClaw را بسازد
+https://www.zoomit.ir/ai-articles/461374-anthropic-models-offline-internal-clashes/|شکاف ارتباطی؛ عامل اصلی بحران میان آنتروپیک و کاخ سفید
