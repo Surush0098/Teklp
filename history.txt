@@ -2682,3 +2682,4 @@ https://www.zoomit.ir/internet-network/461864-spacex-starlink-satellite-to-satel
 https://www.zoomit.ir/iran-news/461884-bank-outages-not-related-to-internet-reopening/|معاون وزیر ارتباطات: نسبت دادن اختلالات بانکی به بازگشایی اینترنت غیرکارشناسانه است
 https://www.zoomit.ir/iran-news/461883-disruption-on-banks-services-ended/|شرکت انفورماتیک: اختلال خدمات کارت‌محور بانک‌ها برطرف شد
 https://www.zoomit.ir/ai-articles/461912-openai-launches-gpt-5-5-instant/|معرفی GPT-5.5 Instant؛ پاسخ‌های چت‌جی‌پی‌تی حالا سریع‌تر و دقیق‌تر است
+https://www.zoomit.ir/ai-articles/461913-anthropic-accuses-alibaba-ai-theft/|یک شرکت چینی به استخراج غیرقانونی هوش مصنوعی کلاد متهم شد
