@@ -2683,3 +2683,4 @@ https://www.zoomit.ir/iran-news/461884-bank-outages-not-related-to-internet-reop
 https://www.zoomit.ir/iran-news/461883-disruption-on-banks-services-ended/|شرکت انفورماتیک: اختلال خدمات کارت‌محور بانک‌ها برطرف شد
 https://www.zoomit.ir/ai-articles/461912-openai-launches-gpt-5-5-instant/|معرفی GPT-5.5 Instant؛ پاسخ‌های چت‌جی‌پی‌تی حالا سریع‌تر و دقیق‌تر است
 https://www.zoomit.ir/ai-articles/461913-anthropic-accuses-alibaba-ai-theft/|یک شرکت چینی به استخراج غیرقانونی هوش مصنوعی کلاد متهم شد
+https://www.zoomit.ir/ai-articles/461921-anthropic-fable-5-subscription-update/|هوش مصنوعی «فیبل ۵» برمی‌گردد؛ اما به شکلی متفاوت
