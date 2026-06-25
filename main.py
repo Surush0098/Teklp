@@ -19,7 +19,7 @@ RSS_URLS = [
 
 # مدل قدرتمند با سهمیه 1000 تایی
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-2.5-flash-lite')
+model = genai.GenerativeModel('gemini-3.1-flash-lite')
 
 HISTORY_FILE = "history.txt"
 
