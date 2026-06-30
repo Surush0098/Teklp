@@ -2912,3 +2912,4 @@ https://www.zoomit.ir/health-medical/461778-brain-rot-science-digital-health/|آ
 https://www.zoomit.ir/camera/462220-godox-c100-compact-camera-launch/|دوربین عجیب و غریب گوداکس؛ بدون نمایشگر با پنل شفاف!
 https://www.zoomit.ir/ai-tutorials/462223-github-copilot-token-usage-tips/|چطور همزمان با مدیریت توکن در گیت‌ هاب کوپایلت، دقت و سرعت پاسخ‌ها را افزایش دهیم؟
 https://www.zoomit.ir/ai-articles/462272-anthropic-launches-claude-sonnet-5/|هوش مصنوعی «کلاود سانت ۵» معرفی شد؛ کاهش چشمگیر هزینه‌ها با مدل جدید آنتروپیک
+https://www.zoomit.ir/ai-articles/462270-anthropic-launches-claude-science-workbench/|کلاود ساینس رونمایی شد؛ هوش مصنوعی در خدمت تحقیقات علمی
