@@ -2940,3 +2940,4 @@ https://www.zoomit.ir/iran-news/462304-aref-ai-cybersecurity-vocational-training
 https://www.zoomit.ir/iran-news/462303-no-bank-data-breach-after-recent-cyberattacks/|وزیر اقتصاد: هیچ‌گونه نشت یا از دست رفتن اطلاعات بانکی در حملات اخیر نداشتیم
 https://www.zoomit.ir/social-network/462302-us-house-passes-kids-internet-safety-act/|مجلس نمایندگان آمریکا قانون حمایت از کودکان در فضای آنلاین را تصویب کرد
 https://www.zoomit.ir/software-news/462286-apple-creator-studio-ai-update/|اپل مجموعه‌ای از ویژگی‌های هوش مصنوعی را به Creator Studio اضافه کرد
+https://www.zoomit.ir/wearables/462279-meta-smart-glasses-rate-limits-soft-paywall/|متا در اقدامی جنجالی، برخی از ویژگی‌ها در عینک‌های هوشمندش را اشتراکی می‌کند
