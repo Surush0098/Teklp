@@ -3012,3 +3012,4 @@ https://www.zoomit.ir/tablet/462368-apple-ipad-pro-spring-2027-launch/|آیپد 
 https://www.zoomit.ir/engineering/462344-earthquake-alerts-system-early-warning-featured/|سیستم هشدار زلزله در گوشی‌های هوشمند چگونه کار می‌کند؟
 https://www.zoomit.ir/mobile/462360-redmi-note-17-series-launch-500-million-sales/|فروش جهانی ردمی نوت شیائومی از ۵۰۰ میلیون دستگاه عبور کرد
 https://www.zoomit.ir/security/462390-google-recaptcha-gesture-test-bypass/|تست جنجالی گوگل؛ آیا برای اثبات انسان‌بودن باید دست خود را جلوی دوربین بگیرید؟
+https://www.zoomit.ir/processor/462404-intel-core-ultra-200s-plus-price-increase/|ادامه تلاطم در بازار سخت‌افزار؛ اینتل قیمت پردازنده‌های پرچمدارش را بالا برد
