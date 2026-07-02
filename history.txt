@@ -3011,3 +3011,4 @@ https://www.zoomit.ir/mobile/462343-ios-27-copy-paste-feature/|کپی‌پیست
 https://www.zoomit.ir/tablet/462368-apple-ipad-pro-spring-2027-launch/|آیپد پرو ۲۰۲۷ احتمالا بهار آینده معرفی می‌شود
 https://www.zoomit.ir/engineering/462344-earthquake-alerts-system-early-warning-featured/|سیستم هشدار زلزله در گوشی‌های هوشمند چگونه کار می‌کند؟
 https://www.zoomit.ir/mobile/462360-redmi-note-17-series-launch-500-million-sales/|فروش جهانی ردمی نوت شیائومی از ۵۰۰ میلیون دستگاه عبور کرد
+https://www.zoomit.ir/security/462390-google-recaptcha-gesture-test-bypass/|تست جنجالی گوگل؛ آیا برای اثبات انسان‌بودن باید دست خود را جلوی دوربین بگیرید؟
