@@ -2994,3 +2994,4 @@ https://www.zoomit.ir/business/462377-jelani-nelson-joined-anthropic/|استاد
 https://www.zoomit.ir/gaming/462346-xbox-disc-to-digital-feature-testing/|تبدیل دیسک بازی به نسخه دیجیتال؛ ایکس‌باکس در مسیر پلی‌استیشن قدم برمی‌دارد؟
 https://www.zoomit.ir/software-news/462352-chrome-150-security-update/|نسخه جدید گوگل کروم تقریبا ۴۰۰ مشکل امنیتی را برطرف می‌کند؛ همین‌حالا نصب کنید
 https://www.zoomit.ir/economics/462367-openai-equity-stake-proposal-us-government/|فرار از فشارهای سیاسی؛ OpenAI پنج درصد از سهامش را به دولت آمریکا پیشنهاد کرد
+https://www.zoomit.ir/ai-articles/462351-xai-launched-voice-agent-builder/|ساخت دستیار صوتی بدون کدنویسی؛ هوش مصنوعی Voice Agent Builder معرفی شد
