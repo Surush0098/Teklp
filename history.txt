@@ -3088,3 +3088,4 @@ https://www.zoomit.ir/headset/462457-apple-ios-27-beta-new-product-hints/|اپل
 https://www.zoomit.ir/engineering/462430-frank-gehry-dar-al-funoo-abu-dhabi/|دارالفنون ابوظبی؛ آغاز ساخت یکی از آخرین آثار معماری فرانک گری در امارات
 https://www.zoomit.ir/space/462463-nasa-launches-rescue-mission-save-swift-telescope/|مأموریت نجات سوئیفت؛ آخرین پرواز موشک پگاسوس برای حفظ تلسکوپ ناسا انجام شد
 https://www.zoomit.ir/car/462438-xpeng-mona-l03-presale-launch/|شاسی‌بلند چینی «مونا ال۰۳» با قیمت منطقی عرضه شد
+https://www.zoomit.ir/ai-articles/462461-claude-fable-relaunch-performance-issues/|نسخه جدید Claude Fable بسیار ضعیف‌تر از نسخه‌ قبلی است
