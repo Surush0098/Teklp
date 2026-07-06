@@ -3171,3 +3171,4 @@ https://www.zoomit.ir/ai-articles/462522-ampera-unveils-3d-printed-thorium-nucle
 https://www.zoomit.ir/business/462585-microsoft-selling-four-xbox-studios-layoffs/|مایکروسافت چهار استودیو بازی‌سازی ایکس‌باکس را می‌فروشد
 https://www.zoomit.ir/business/462584-microsoft-layoffs-july-2026-sales-xbox/|مایکروسافت ۴۸۰۰ کارمند را اخراج می‌کند
 https://www.zoomit.ir/ai-articles/462589-spacex-trademarks-spacexai-satellite-ai/|نام تجاری «اسپیس‌ایکس‌ای‌آی» برای پروژه دیتاسنترهای فضایی ایلان ماسک ثبت شد
+https://www.zoomit.ir/security/462525-are-captchas-obsolete-in-the-age-of-ai/|نفس‌های پایانی «کپچا»؛ هوش مصنوعی به‌راحتی ابزارهای تشخیص هویت را به بازی می‌گیرد
