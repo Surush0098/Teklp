@@ -3207,3 +3207,4 @@ https://www.zoomit.ir/report/462616-irantalent-1405-hr-survey-short-term-contrac
 https://www.zoomit.ir/iran-news/462618-wepod-ask-me-feature/|«از من بپرس»؛ پشتیبانی سریع و بدون معطلی در ویپاد
 https://www.zoomit.ir/movies-tv-shows/462507-silo-season-3-release-schedule-details/|تاریخ و ساعت پخش قسمت‌های جدید سریال Silo به وقت ایران
 https://www.zoomit.ir/fundamental-science/462544-cockroach-diving-suit-actually-works/|سوسک‌های سایبورگ حالا می‌توانند زیر آب نیز نفس بکشند
+https://www.zoomit.ir/ai-tutorials/462538-ai-agents-with-n8n/|آموزش گام‌به‌گام ساخت ایجنت هوش مصنوعی با n8n
