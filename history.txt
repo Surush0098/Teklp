@@ -3191,3 +3191,4 @@ https://www.zoomit.ir/social-network/462564-meta-regulatory-challenges-india-ins
 https://www.zoomit.ir/economics/462615-samsung-semiconductor-division-record-profit-projection-2026/|رکورد خیره‌کننده؛ سود واحد تراشه‌سازی سامسونگ از مجموع سود ۴۰ سال اخیر بیشتر شد
 https://www.zoomit.ir/health-medical/462497-claude-ai-drug-development-featured/|ورود هوش مصنوعی به آزمایشگاه‌ها؛ آیا آنتروپیک داروهای اختصاصی تولید می‌کند؟
 https://www.zoomit.ir/mobile/462555-tank-5-rugged-phone-2k-projector-announced/|تانک ۵ معرفی شد؛ گوشی جان‌سخت با پروژکتور اختصاصی
+https://www.zoomit.ir/os/462614-microsoft-confirms-windows-11-storage-bug/|یک باگ پنهان در ویندوز ۱۱ صدها گیگابایت از فضای ذخیره‌سازی را می‌بلعد
