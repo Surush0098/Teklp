@@ -3352,3 +3352,4 @@ https://www.zoomit.ir/processor/462808-amd-expands-hawk-point-ryzen-200-100-seri
 https://www.zoomit.ir/aviation-aerospace/462825-china-lands-rocket-during-orbital-launch-first-time/|خط‌ونشان چین برای ایلان ماسک؛ موشک لانگ مارچ 10B با فرود عمودی تاریخ‌ساز شد
 https://www.zoomit.ir/ai-articles/462831-elon-musk-admits-anthropic-ai-leadership/|ایلان ماسک از رقیبش تعریف کرد: «آنتروپیک رهبر بازار هوش مصنوعی است»
 https://www.zoomit.ir/economics/462830-sk-hynix-wall-street-debut/|ورود پرقدرت «اس‌کی هاینیکس» به بورس آمریکا با رکوردشکنی تاریخی
+https://www.zoomit.ir/linux/462829-linus-torvalds-not-a-programmer/|خالق لینوکس: من دیگر یک برنامه‌نویس نیستم
