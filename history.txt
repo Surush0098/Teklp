@@ -3534,3 +3534,4 @@ https://www.zoomit.ir/mobile/463040-google-pixel-11-tensor-g6-tsmc-2nm/|گوگل
 https://www.zoomit.ir/os/463048-microsoft-windows-11-search-update/|سیستم جست‌و‌جو ویندوز ۱۱ آپدیت بزرگی دریافت می‌کند
 https://www.zoomit.ir/tech/462992-ireland-data-center-electricity-consumption-2025/|دیتاسنترهای ایرلند ۳۴ درصد از کل برق آن کشور را مصرف کردند
 https://www.zoomit.ir/business/463047-oneplus-exit-us-european-markets/|ادعای بزرگ: وان‌پلاس از بازار آمریکا و اروپا خارج می‌شود
+https://www.zoomit.ir/ai-articles/463042-anthropic-claude-team-collaboration-features/|آنتروپیک با یک آپدیت جدید، هوش مصنوعی کلاد را سوپرشارژ کرد
