@@ -3536,3 +3536,4 @@ https://www.zoomit.ir/tech/462992-ireland-data-center-electricity-consumption-20
 https://www.zoomit.ir/business/463047-oneplus-exit-us-european-markets/|ادعای بزرگ: وان‌پلاس از بازار آمریکا و اروپا خارج می‌شود
 https://www.zoomit.ir/ai-articles/463042-anthropic-claude-team-collaboration-features/|آنتروپیک با یک آپدیت جدید، هوش مصنوعی کلاد را سوپرشارژ کرد
 https://www.zoomit.ir/internet-network/463043-telegram-tme-domain-suspended/|دامنه‌ی t.me تلگرام از دسترس خارج شد
+https://www.zoomit.ir/os/463041-apple-releases-ios-27-public-beta/|آپدیت بزرگ iOS 27 وارد آیفون شد؛ اما به‌صورت آزمایشی
