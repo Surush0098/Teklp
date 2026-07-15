@@ -3672,3 +3672,4 @@ https://www.zoomit.ir/mobile/463214-oneplus-shutdown-us-europe-india-realme-exit
 https://www.zoomit.ir/ai-articles/462587-ai-bubble-burst-faetured/|حباب هوش مصنوعی چطور شکل گرفت و ترکیدن آن چه بلایی سر اقتصاد می‌آورد؟
 https://www.zoomit.ir/fundamental-science/462835-white-line-saved-millions/|داستان خط سفید کنار جاده؛ اختراعی فراموش‌شده که جان افراد بی‌شمار را نجات داده است
 https://www.zoomit.ir/business/463081-data-centers-unfulfilled-economic-promises-high-costs/|توهم اشتغال‌زایی؛ دیتاسنترها برخلاف وعده‌ها، شغل جدید نمی‌سازند
+https://www.zoomit.ir/ai-articles/463206-german-consortium-releases-soofi-s-open-30b-ai-model/|هوش مصنوعی آلمانی Soofi S با توانایی پردازش متن‌های طولانی معرفی شد
