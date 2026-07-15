@@ -3679,3 +3679,4 @@ https://www.zoomit.ir/tech/463159-aviation-authorities-warn-against-power-banks-
 https://www.zoomit.ir/space/463131-smallest-giant-telescope-worlds-best/|نبرد ابرتلسکوپ‌ها؛ چرا ماژلان با آینه ۲۵ متر می‌تواند بهترین رصدخانه دنیا باشد؟
 https://www.zoomit.ir/social-network/463218-uk-voluntary-social-media-curfew-older-teens/|طرح جنجالی برای نوجوانان ۱۶ و ۱۷ ساله: شبکه‌های اجتماعی از نیمه‌شب ممنوع!
 https://www.zoomit.ir/os/463059-waydroid-linux-android-16-run/|این ابزار پیشرفته، اندروید ۱۶ را روی لینوکس اجرا می‌کند
+https://www.zoomit.ir/ai-articles/463217-openai-reveals-gpt-red-security-testing/|هوش مصنوعی پیشرفته GPT-Red برای تست امنیت سیستم‌ها معرفی شد
