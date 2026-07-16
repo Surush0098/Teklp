@@ -3682,3 +3682,4 @@ https://www.zoomit.ir/os/463059-waydroid-linux-android-16-run/|این ابزار
 https://www.zoomit.ir/ai-articles/463217-openai-reveals-gpt-red-security-testing/|هوش مصنوعی پیشرفته GPT-Red برای تست امنیت سیستم‌ها معرفی شد
 https://www.zoomit.ir/monitor/463165-aoc-13t5s-color-e-ink-portable-monitor-launched/|مانیتور جدید AOC با نمایشگر جوهر الکترونیک معرفی شد
 https://www.zoomit.ir/cryptocurrency/463162-bitmine-ethereum-staking-revenue-report/|درآمد ۴۶ میلیون دلاری بیت‌ماین از استیکینگ اتریوم
+https://www.zoomit.ir/ai-articles/463225-spacexai-open-sources-grok-build-after-data-privacy-backlash/|هوش مصنوعی «گراک بیلد» حالا متن‌باز است
