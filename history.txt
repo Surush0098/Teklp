@@ -3705,3 +3705,4 @@ https://www.zoomit.ir/os/463256-microsoft-tests-windows-shared-audio/|مایکر
 https://www.zoomit.ir/ai-articles/463279-deepseek-v4-huawei-ai-chips/|هوش مصنوعی دیپ‌سیک به‌طور کامل روی تراشه‌های هواوی اجرا می‌شود
 https://www.zoomit.ir/biology/463262-orange-lipped-monkey-congo-rainforest/|میمون اسرارآمیز با لب‌های نارنجی؛ کشف گونه‌ای کاملاً جدید در اعماق جنگل‌های کنگو
 https://www.zoomit.ir/car/463228-horse-powertrain-d20-methanol-range-extender/|بنزین و گازوئیل را فراموش کنید؛ این موتور با متانول کار می‌کند
+https://www.zoomit.ir/ai-articles/463277-anthropic-claude-code-reset-openai-pressure/|ریست محدودیت استفاده از هوش مصنوعی کلاد؛ وقتی رقابت به نفع کاربر تمام می‌شود
