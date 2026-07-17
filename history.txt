@@ -3758,3 +3758,4 @@ https://www.zoomit.ir/business/463259-hyundai-acquires-boston-dynamics-fully/|ت
 https://www.zoomit.ir/tech/463292-eu-exemptions-user-replaceable-batteries/|اروپا قانون باتری‌های قابل تعویض محصولات الکترونیکی را تا حدی اصلاح کرد
 https://www.zoomit.ir/robotics-smart-machines/463301-china-launches-world-first-humanoid-robot-combat-league/|تماشا کنید: مبارزه تن‌به‌تن ربات‌های انسان‌نما در رینگ!
 https://www.zoomit.ir/car/463274-toyota-gr-gt-supercar-spied/|این ابرخودرو جدید تویوتا است + ویدیو
+https://www.zoomit.ir/ai-articles/463329-kimi-k3-ai-build-macos-web-base/|هوش مصنوعی جنجالی «کیمی K3» یک نسخه کامل از macOS را بر بستر مرورگر ساخت!
