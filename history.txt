@@ -3765,3 +3765,4 @@ https://www.zoomit.ir/ai-articles/463295-new-york-governor-ai-laws/|فرماند
 https://www.zoomit.ir/space/460211-milkyway-andromeda-galaxy-collision-collision/|برخورد راه شیری و آندرومدا؛ بزرگ‌ترین تصادف کیهانی که هرگز نخواهیم دید
 https://www.zoomit.ir/software-news/463331-whatsapp-rolls-out-usernames-feature/|فعال‌سازی یوزرنیم‌های واتساپ شروع شد
 https://www.zoomit.ir/space/463263-meteorite-crashed-new-jersey-home/|شهاب‌سنگی که روی سقف خانه‌ای در نیوجرسی افتاد، کپسول زمان حیات از آب درآمد
+https://www.zoomit.ir/robotics-smart-machines/463261-china-us-humanoid-robotics-race/|سفر ربات‌های چینی به دنیای واقعی؛ تلاش برای یادگیری «انسانیت»
