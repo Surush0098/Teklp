@@ -3869,3 +3869,4 @@ https://www.zoomit.ir/iran-news/463440-bale-advertising-growth-report/|رشد ت
 https://www.zoomit.ir/energy-environment/463423-fifa-deal-climate-change/|فینال جام جهانی ۲۰۲۶ زیر سایه دود آتش‌سوزی؛ فیفا هیچ برنامه‌ای برای مقابله ندارد
 https://www.zoomit.ir/business/463416-spacexai-identity-crisis-musk-ai-company-featured/|بحران هویت در تشکیلات آشفته هوش مصنوعی ایلان ماسک
 https://www.zoomit.ir/ai-articles/463383-elon-musk-predicts-agi-timeline/|ایلان ماسک: هوش مصنوعی انسان‌گونه (AGI) تا یک سال دیگر از راه می‌رسد
+https://www.zoomit.ir/security/463382-ai-recording-apps-privacy-shift/|جاسوسی هوشمند؛ وقتی هوش مصنوعی تمام مکالمات ما را ضبط می‌کند
