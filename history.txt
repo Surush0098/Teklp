@@ -3857,3 +3857,4 @@ https://www.zoomit.ir/iran-news/463431-mobile-market-calls-for-import-tariff-and
 https://www.zoomit.ir/mobile/463429-galaxy-s26-ultra-red-screen-fix/|سامسونگ مشکل نمایشگر گلکسی S26 اولترا را با آپدیت نرم‌افزاری برطرف می‌کند
 https://www.zoomit.ir/software-news/463421-youtube-pip-broken-ios-android/|حالت تصویر در تصویر یوتیوب دچار مشکل شد
 https://www.zoomit.ir/mobile/463419-google-pixel-11-specs-price-leak/|قیمت و مشخصات کامل گوشی گوگل پیکسل ۱۱ لو رفت
+https://www.zoomit.ir/tech/463420-google-open-sources-3d-emoji/|ایموجی‌های سه‌بعدی اندروید، متن‌باز می‌شوند
