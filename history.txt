@@ -3901,3 +3901,4 @@ https://www.zoomit.ir/iran-news/463484-khuzestan-final-exams-july-2026/|خبری
 https://www.zoomit.ir/security/463475-lg-monitors-install-adware-silently/|خطر امنیتی در مانیتورهای ال‌جی؛ نصب خودکار تبلیغات مخرب با دسترسی کامل به سیستم
 https://www.zoomit.ir/iran-news/463481-raja-train-ticket-not-available/|با آغاز فروش بلیت قطار مردادماه، سایت از دسترس خارج شد
 https://www.zoomit.ir/mobile/463474-vivo-x300e-officially-announced/|گوشی ارزنده با تراشه قدرتمند؛ ویوو X300e معرفی شد
+https://www.zoomit.ir/security/463452-fbi-arrests-steam-crypto-hacker/|کلاهبرداری که بازی‌های آلوده به بدافزار منتشر می‌کرد، بازداشت شد
