@@ -4073,3 +4073,4 @@ https://www.zoomit.ir/wearables/463709-samsung-google-smart-glasses-design-unpac
 https://www.zoomit.ir/engineering/463670-phantom-twist-invisible-drone-fast-spin/|این پهپاد آن‌قدر سریع می‌چرخد که تقریباً از دید انسان ناپدید می‌شود
 https://www.zoomit.ir/ai-articles/463708-galaxy-ai-800-million-devices-unpacked2026/|هوش مصنوعی سامسونگ تا پایان امسال روی ۸۰۰ میلیون دستگاه فعال می‌شود
 https://www.zoomit.ir/software-news/463627-meta-storykit-ai-bedtime-stories/|متا اپلیکیشن قصه‌گویی با هوش مصنوعی برای کودکان می‌سازد
+https://www.zoomit.ir/ai-articles/463712-claude-code-security-plugin-beta-one/|پلاگین هوش مصنوعی Claude Security در قالب نسخه آزمایشی منتشر شد
