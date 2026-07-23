@@ -4110,3 +4110,4 @@ https://www.zoomit.ir/iran-news/463750-third-fuel-quota-personal-fuel-card/|تغ
 https://www.zoomit.ir/howto/463656-mci-call-signature/|امضای تماس همراه اول چیست و چگونه آن را فعال یا غیرفعال کنیم؟
 https://www.zoomit.ir/cryptocurrency/463748-bitmex-shutting-down-operations/|صرافی بزرگ بیت‌مکس تعطیل می‌شود
 https://www.zoomit.ir/robotics-smart-machines/463664-toyota-walk-me-wheelchair/|تویوتا حالا ویلچر هوشمند هم دارد!
+https://www.zoomit.ir/os/463765-microsoft-lg-mcafee-popup-disabled/|جنجال تبلیغات ال‌جی در ویندوز ۱۱؛ مایکروسافت: سیستم‌عامل ما جای تبلیغ‌افزار نیست
