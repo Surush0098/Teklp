@@ -4160,3 +4160,4 @@ https://www.zoomit.ir/ai-articles/463781-grok-4-5-public-launch/|هوش مصنو
 https://www.zoomit.ir/mobile/463734-poco-f9-vivo-x500-certifications/|پوکو F9 اولترا و F9 پرو حالا در آستانه رونمایی هستند
 https://www.zoomit.ir/mobile/463786-samsung-galaxy-s27-sony-sensor/|گلکسی اس ۲۷ و اس ۲۷ پلاس احتمالا دوربین اصلی کاملا جدیدی خواهند داشت
 https://www.zoomit.ir/ai-articles/463806-mai-image-voice-microsoft-foundry/|مایکروسافت دو هوش مصنوعی تصویرساز جدید با عملکرد تحسین‌برانگیز معرفی کرد
+https://www.zoomit.ir/ai-articles/463801-solved-6-open-problems-gpt-5-6-sol/|هوش مصنوعی GPT-5.6 Sol، مسئله بسیار پیچیده ریاضی را حل کرد
