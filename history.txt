@@ -4325,3 +4325,4 @@ https://www.zoomit.ir/hardware/463971-huawei-swaysure-dram-joint-venture/|هوا
 https://www.zoomit.ir/iran-news/463969-ai-education-expansion-iran-schools/|رئیس کمیسیون آموزش مجلس: آموزش هوش مصنوعی به‌زودی در مدارس فراگیر می‌شود
 https://www.zoomit.ir/gaming/463970-minecraft-system-requirements-updated/|سیستم پیش‌نیاز Minecraft Java Edition پس از ۱۷ سال تغییر کرد!
 https://www.zoomit.ir/health-medical/463917-ai-chatbots-biological-weapons-danger/|هوش مصنوعی نحوه ساخت سلاح‌های مرگبار بیولوژیکی را آموزش می‌دهد
+https://www.zoomit.ir/security/463967-claude-shared-chats-indexed-google/|چت‌های اشتراک‌گذاری‌شده کلاد، در گوگل قابل مشاهده‌اند
