@@ -4363,3 +4363,4 @@ https://www.zoomit.ir/ai-articles/463979-waymo-robotaxis-austin-parking-fines/|�
 https://www.zoomit.ir/ai-articles/464021-kimi-k3-available-directly-hugging-face/|هوش مصنوعی قدرتمند کیمی K3، «وزن‌باز» شد
 https://www.zoomit.ir/economics/464022-x-money-payment-service-launch/|«ایکس مانی» راه‌اندازی شد؛ گام بزرگ ایلان ماسک برای تولید سوپراپلیکیشن
 https://www.zoomit.ir/iran-news/464058-iran-rules-out-gasoline-price-hike-fuel-quota-to-bank-cards/|نایب رئیس مجلس: افزایش قیمت بنزین منتفی است
+https://www.zoomit.ir/ai-articles/464054-anthropic-ceo-responds-open-weight-ai/|مدیرعامل آنتروپیک تکذیب کرد: هرگز از ممنوعیت مدل‌های متن‌باز دفاع نکردم
