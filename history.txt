@@ -4370,3 +4370,4 @@ https://www.zoomit.ir/iran-news/464046-ai-operator-license-regulation-ministry-o
 https://www.zoomit.ir/iran-news/464047-president-approval-required-for-digital-platforms-restriction/|مهاجرانی: هیچ سکوی دیجیتالی بدون دستور رئیس‌جمهور مسدود یا تعلیق نمی‌شود
 https://www.zoomit.ir/car/464041-xiaomi-skynomad-kunlun-erev-specs/|مشخصات فنی اسکای‌نومد منتشر شد؛ شاسی‌بلند فول‌سایز و کم‌مصرف شیائومی
 https://www.zoomit.ir/iran-news/464044-tavanir-denies-selling-power-outage-sms-notifications/|وزارت نیرو دریافت هزینه برای اطلاع‌رسانی خاموشی‌ها را تکذیب کرد
+https://www.zoomit.ir/linux/464064-linus-torvalds-explains-linux-speed/|راز سرعت خیره‌کننده لینوکس از زبان لینوس توروالدز
