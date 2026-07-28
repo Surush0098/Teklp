@@ -4361,3 +4361,4 @@ https://www.zoomit.ir/mobile/464005-itel-zeno-100-pro-launched/|گوشی ارز�
 https://www.zoomit.ir/economics/464030-apple-nears-five-trillion-market-cap/|اپل در آستانه عبور از ارزش بازار ۵ تریلیون دلار قرار گرفت
 https://www.zoomit.ir/ai-articles/463979-waymo-robotaxis-austin-parking-fines/|وقتی هوش مصنوعی قوانین رانندگی را نمی‌شناسد؛ جریمه‌های سنگین برای تاکسی‌های خودران ویمو
 https://www.zoomit.ir/ai-articles/464021-kimi-k3-available-directly-hugging-face/|هوش مصنوعی قدرتمند کیمی K3، «وزن‌باز» شد
+https://www.zoomit.ir/economics/464022-x-money-payment-service-launch/|«ایکس مانی» راه‌اندازی شد؛ گام بزرگ ایلان ماسک برای تولید سوپراپلیکیشن
