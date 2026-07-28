@@ -4398,3 +4398,4 @@ https://www.zoomit.ir/os/464072-samsung-one-ui-9-failed-unlock-reset/|آپدیت
 https://www.zoomit.ir/mobile/464026-huawei-nova-16-se-specs-leak/|هواوی گوشی Nova 16 SE را با باتری عظیم و طراحی آشنا روانه بازار می‌کند
 https://www.zoomit.ir/software-news/464079-whatsapp-web-calling-new-features/|تماس صوتی و تصویری به نسخه وب واتساپ اضافه شد
 https://www.zoomit.ir/movies-tv-shows/464087-apple-silo-season-4-release-date/|فصل چهارم و پایانی سریال Silo کی پخش می‌شود؟
+https://www.zoomit.ir/security/464086-anthropic-claude-cracks-encryption-algorithms/|هوش مصنوعی «کلاد» روش‌ جدیدی برای حمله به استانداردهای رمزنگاری ابداع کرد
