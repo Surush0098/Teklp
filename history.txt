@@ -4431,3 +4431,4 @@ https://www.zoomit.ir/iran-news/464136-exit-permit-bond-sakha-1405/|مبلغ و�
 https://www.zoomit.ir/iran-news/464135-internet-outage-impact-gamers-vs-developers-iran/|معاون پژوهش بنیاد ملی بازی‌های رایانه‌ای: قطعی اینترنت به گیمرها بیشتر از بازی‌سازان آسیب زد
 https://www.zoomit.ir/ai-articles/464126-ben-aflek-talk-about-ai/|انتقاد تند بن افلک از هوش مصنوعی: خروجی‌اش «مزخرف» است
 https://www.zoomit.ir/iran-news/464129-irancell-free-calls-for-zanjan-day/|مکالمه رایگان ایرانسل به مناسبت روز زنجان
+https://www.zoomit.ir/ai-articles/463994-satya-nadella-frontier-diffusion-control-featured/|چرا ساتیا نادلا آینده‌ هوش مصنوعی را در مدل‌های کوچک می‌بیند نه غول‌های چندتریلیون پارامتری؟
