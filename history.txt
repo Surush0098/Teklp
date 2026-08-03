@@ -4684,3 +4684,4 @@ https://www.zoomit.ir/science/464406-ai-generated-map-african-country-wrong/|ن�
 https://www.zoomit.ir/iran-news/464441-mobile-import-registration-halt-1405/|توقف پنج‌ماهه ثبت سفارش جدید واردات تلفن همراه در سال ۱۴۰۵
 https://www.zoomit.ir/iran-news/464442-coworking-space-bagh-ketab-closure/|انجمن فضاهای کار اشتراکی درباره تعطیلی فضای کار اشتراکی باغ کتاب: پایان قرارداد، مجوز آسیب به کسب‌وکارها نیست
 https://www.zoomit.ir/cryptocurrency/464411-south-korea-stablecoin-outflows-overseas/|افزایش خروج استیبل‌کوین‌ها از کره جنوبی در پی تشدید نظارت‌های قانونی
+https://www.zoomit.ir/processor/464392-amd-zen-6-microstutter-fix/|پردازنده‌های Zen 6 ای‌ام‌دی تمرکز ویژه‌ای بر کاهش تأخیر در بازی‌ها خواهند داشت
