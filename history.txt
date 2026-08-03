@@ -4686,3 +4686,4 @@ https://www.zoomit.ir/iran-news/464442-coworking-space-bagh-ketab-closure/|ان�
 https://www.zoomit.ir/cryptocurrency/464411-south-korea-stablecoin-outflows-overseas/|افزایش خروج استیبل‌کوین‌ها از کره جنوبی در پی تشدید نظارت‌های قانونی
 https://www.zoomit.ir/processor/464392-amd-zen-6-microstutter-fix/|پردازنده‌های Zen 6 ای‌ام‌دی تمرکز ویژه‌ای بر کاهش تأخیر در بازی‌ها خواهند داشت
 https://www.zoomit.ir/ai-articles/464433-youtube-removes-ai-spam-channels/|یوتیوب پاک‌سازی ویدیوهای هوش مصنوعی را شروع کرد
+https://www.zoomit.ir/graphic/464443-rtx-6090-power-limitations/|شایعات اولیه از گرافیک پرچمدار RTX 6090؛ قدرت نهایی محدود خواهد بود؟
