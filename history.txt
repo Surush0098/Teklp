@@ -4829,3 +4829,4 @@ https://www.zoomit.ir/car/464528-aito-m9-luxury-suv-features/|ویدیو: این
 https://www.zoomit.ir/ai-articles/464620-anthropic-builds-in-house-chip-team/|خالق چت‌بات کلاد، یک تیم اختصاصی برای طراحی تراشه تشکیل می‌دهد
 https://www.zoomit.ir/ai-articles/464617-rogue-ai-agents-hacking-attempts/|روی ترسناک هوش مصنوعی؛ عامل سرکش، هویت جعلی ساخت و برای هک‌کردن تلاش کرد
 https://www.zoomit.ir/graphic/464590-rtx-5090-price-hike-ai/|افزایش سرسام‌آور هزینه سخت‌افزار؛ قیمت گرافیک RTX 5090 به ۷۰۰۰ دلار رسید!
+https://www.zoomit.ir/robotics-smart-machines/464615-robot-hand-rock-paper-scissors/|تماشا کنید: این ربات هرگز در بازی «سنگ، کاغذ، قیچی» شکست نمی‌خورد
