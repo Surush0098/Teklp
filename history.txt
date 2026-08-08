@@ -4993,3 +4993,4 @@ https://www.zoomit.ir/aviation-aerospace/464820-starship-likely-be-lost-at-sea/|
 https://www.zoomit.ir/laptop/464798-tech-firm-destroys-m4-macbooks/|یک شرکت بیش‌از ۱۰۰ دستگاه مک‌بوک با رم ۴۸ گیگابایتی را نابود کرد؛ ادعای کارمند سابق
 https://www.zoomit.ir/space/464823-nasas-voyager-2-survives-daring-big-bang-maneuver/|آخرین شانس بقا برای کاوشگران دوقلو؛ وویجر ۲ از آزمون خطرناک «بیگ‌بنگ» سربلند بیرون آمد
 https://www.zoomit.ir/ai-articles/464729-bytedance-ten-trillion-parameter-ai/|بایت‌دنس یک هوش مصنوعی عظیم برای رقابت با میتوس می‌سازد؛ ادعای منابع آگاه
+https://www.zoomit.ir/os/464812-windows-11-modern-standby-fix/|داغ و خالی‌شدن باتری لپ‌تاپ در حالت «مدرن استندبای»؛ مایکروسافت وعده رفع مشکل را داد
