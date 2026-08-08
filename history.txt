@@ -4941,3 +4941,4 @@ https://www.zoomit.ir/energy-environment/464727-us-blocks-battery-tungsten-expor
 https://www.zoomit.ir/ai-articles/464720-ai-accounts-new-cyber-attack-surface/|حساب‌های کاربری هوش مصنوعی به هدف جدید هکرها تبدیل شدند
 https://www.zoomit.ir/software-news/464757-microsoft-edge-drops-mv2-extensions/|مایکروسافت اج همچون کروم به جنگ ادبلاکرهای قدیمی می‌رود
 https://www.zoomit.ir/os/464769-ios-26-dopamine-jailbreak-released/|سیستم‌عامل iOS 26 برای اولین‌بار جیل‌بریک شد
+https://www.zoomit.ir/ai-articles/464756-openai-pauses-astra-model-cybersecurity/|توسعه هوش مصنوعی جدید اوپن‌ای‌آی به دلایل امنیتی متوقف شد
