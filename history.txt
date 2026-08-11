@@ -5182,3 +5182,4 @@ https://www.zoomit.ir/op-ed/465032-dotin-safar-fanavaraneh-event/|سفر فنا�
 https://www.zoomit.ir/pr/465027-choosing-best-lawyer-in-tehran/|گروه وکلای عدل ایرانیان؛ مرجع تخصصی انتخاب وکیل در تهران
 https://www.zoomit.ir/ai-articles/463370-next-ai-goldrush-tokens-loops/|پرامپت بد، هزینه بیشتر؛ چالش پنهان و بسیار پرهزینه هوش مصنوعی در شرکت‌ها
 https://www.zoomit.ir/ai-articles/464915-ai-outperforms-humans-pig-butchering-scams/|هوش مصنوعی در فریب انسان‌ها موفق‌تر از شیادان واقعی است
+https://www.zoomit.ir/ai-tutorials/465020-chatgpt-chat-work-codex-difference/|تفاوت سه حالت چت، Work و Codex در ChatGPT، برای هر کاری کدام را انتخاب کنیم؟
