@@ -5170,3 +5170,4 @@ https://www.zoomit.ir/mobile/465024-canceled-microsoft-surface-phone-prototype/|
 https://www.zoomit.ir/gaming/465023-xbox-removes-biometric-age-verification/|تأیید سن کاربران قدیمی ایکس‌باکس بدون نیاز به ارسال مدارک شناسایی ممکن شد
 https://www.zoomit.ir/health-medical/464929-brain-region-oxytocin-and-fear-overlap/|هورمون عشق فقط برای صمیمیت نیست؛ اکسی‌توسین به مهار ترس نیز کمک می‌کند
 https://www.zoomit.ir/ai-articles/464913-ai-token-costs-bubble-burst/|هشدار مدیر مالی مکینزی: حباب هزینه‌های هوش مصنوعی در حال ترکیدن است
+https://www.zoomit.ir/os/464983-linux-kernel-ai-updates-torvalds/|خالق لینوکس: هوش مصنوعی به توسعه آپدیت‌های بزرگ کمک می‌کند
