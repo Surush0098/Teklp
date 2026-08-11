@@ -5134,3 +5134,4 @@ https://www.zoomit.ir/security/464910-north-korea-ai-cyberattack-tools/|کره �
 https://www.zoomit.ir/ai-articles/464969-claude-riemann-hypothesis-breakthrough/|هوش مصنوعی با عبور از مرزهای محاسبات انسانی در «فرضیه ریمان»، دستاورد علمی شگفت‌انگیزی ثبت کرد
 https://www.zoomit.ir/security/464992-malicious-sim-card-security-risks/|سیم‌کارت‌ مسموم، عامل ناشناخته‌ای که نفوذ به گوشی‌ها را ساده‌تر می‌کند
 https://www.zoomit.ir/mobile/464967-google-pixel-11-ram-leak/|مدل استاندارد گوشی پیکسل ۱۱ احتمالا بدون المان نوری «های‌لایت» عرضه می‌شود
+https://www.zoomit.ir/pr/464989-iranicard-prestige-visa-cards/|با ویزا کارت‌های پرستیژ ایرانیکارت، پرداخت‌های بین‌المللی را ساده‌تر تجربه کنید
