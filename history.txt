@@ -5255,3 +5255,4 @@ https://www.zoomit.ir/car/465088-tesla-cybercab-starlink-integration/|اینتر
 https://www.zoomit.ir/ai-articles/465106-grok-4-6-official-benchmarks-release/|هوش مصنوعی پرچمدار گراک ۴٫۶ با تمرکز روی اتوماسیون رونمایی شد
 https://www.zoomit.ir/security/465036-morris-worm-first-internet-malware/|بدافزار ترسناکی که بخشی از اینترنت جهان را فلج کرد
 https://www.zoomit.ir/aviation-aerospace/465103-china-comac-c919-international-flight/|هواپیمای مسافربری اختصاصی چین به پرواز درآمد؛ تلاش برای رقابت با بوئینگ و ایرباس
+https://www.zoomit.ir/mobile/465105-google-pixel-11-creator-suite/|گوگل با Creator Suite گوشی پیکسل ۱۱، بلاگرها را هدف می‌گیرد
