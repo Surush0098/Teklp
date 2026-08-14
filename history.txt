@@ -5377,3 +5377,4 @@ https://www.zoomit.ir/processor/465197-google-tensor-g6-3nm-chip/|گوگل شف�
 https://www.zoomit.ir/software-news/465210-nvidia-geforce-now-linux-release/|سرویس گیمینگ Geforce Now برای لینوکس منتشر شد
 https://www.zoomit.ir/space/465167-nasa-juno-probe-infinite-engineering/|مهندسی بی‌نهایت: کاوشگر جونو ناسا؛ افشاگر اسرار مشتری، پادشاه منظومه شمسی
 https://www.zoomit.ir/internet-network/465216-docomo-starlink-direct-v2-deal/|اپراتور ژاپنی برای اتصال مستقیم گوشی به اینترنت ماهواره‌ای با استارلینک وارد همکاری شد
+https://www.zoomit.ir/processor/465175-snapdragon-8-elite-gen-6-pro-antutu/|تراشه اسنپدراگون ۸ الیت نسل ۶ پرو با امتیازی خیره‌کننده در بنچمارک انتوتو قدرت‌نمایی کرد
