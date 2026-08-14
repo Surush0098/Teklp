@@ -5329,3 +5329,4 @@ https://www.zoomit.ir/security/465121-ai-reasoning-tokens-security-exploit/|پژ
 https://www.zoomit.ir/software-news/465077-telegram-anniversary-launch-billion-users/|تلگرام ۱۳ ساله شد
 https://www.zoomit.ir/car/465075-enzo-ferrari-death-anniversary-legacy/|سالگرد درگذشت انزو فراری؛ روزی که صنعت خودرو عزادار شد
 https://www.zoomit.ir/business/465169-google-ordered-simplify-rival-stores/|دستور فوری دادگاه به گوگل: حذف موانع حضور فروشگاه‌های اپلیکیشن رقیب در اندروید
+https://www.zoomit.ir/ai-articles/465173-openai-chatgpt-computer-history-macos/|تغییر بحث‌برانگیز ChatGPT؛ هوش مصنوعی حالا تمام فعالیت‌های کاربر را در مک رصد می‌کند
