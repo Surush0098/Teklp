@@ -5376,3 +5376,4 @@ https://www.zoomit.ir/mobile/465179-us-smartphone-market-decline-report/|افت 
 https://www.zoomit.ir/processor/465197-google-tensor-g6-3nm-chip/|گوگل شفاف‌سازی کرد؛ پردازنده گوشی‌های پیکسل ۱۱ دو نانومتری نیست
 https://www.zoomit.ir/software-news/465210-nvidia-geforce-now-linux-release/|سرویس گیمینگ Geforce Now برای لینوکس منتشر شد
 https://www.zoomit.ir/space/465167-nasa-juno-probe-infinite-engineering/|مهندسی بی‌نهایت: کاوشگر جونو ناسا؛ افشاگر اسرار مشتری، پادشاه منظومه شمسی
+https://www.zoomit.ir/internet-network/465216-docomo-starlink-direct-v2-deal/|اپراتور ژاپنی برای اتصال مستقیم گوشی به اینترنت ماهواره‌ای با استارلینک وارد همکاری شد
