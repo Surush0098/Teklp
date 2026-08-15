@@ -5419,3 +5419,4 @@ https://www.zoomit.ir/iran-news/465272-achareh-new-integrated-marketing-campaign
 https://www.zoomit.ir/security/465271-taiwan-ai-assisted-cyber-attack/|یک هوش مصنوعی خودمختار با دستور هکرها به زیرساخت‌های تایوان حمله کرد
 https://www.zoomit.ir/space/465184-webb-telescope-spots-oldest-black-hole-pair/|کشف شگفت‌انگیز جیمز وب: نزدیک‌ترین جفت سیاه‌چاله در دوران اولیه جهان
 https://www.zoomit.ir/headset/465208-tecno-pova-ai-buds-pro/|هندزفری حرفه‌ای جدید تکنو به‌لطف هوش مصنوعی ۷۸ زبان را ترجمه می‌کند
+https://www.zoomit.ir/processor/465202-intel-raptor-lake-ddr4-support/|بحران تراشه و افزایش تقاضا؛ اینتل برنامه‌ای برای توقف تولید پردازنده‌های قدیمی‌اش ندارد
