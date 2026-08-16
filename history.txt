@@ -5451,3 +5451,4 @@ https://www.zoomit.ir/ai-articles/465236-china-zai-glm-model-security/|یک هو
 https://www.zoomit.ir/tech-iran/465310-iran-six-universities-shanghai-ranking-2026/|۶ دانشگاه ایران در جمع هزار دانشگاه برتر جهان قرار گرفتند
 https://www.zoomit.ir/energy-environment/461773-icebergs-wreaking-havoc-oceans/|کوه‌های یخ جداشده از گرینلند؛ تهدیدی برای کشتی‌رانی و زیست‌بوم‌های دریایی
 https://www.zoomit.ir/iran-news/465312-iran-teenagers-screen-time-nine-hours/|مرکز ملی فضای مجازی: نوجوانان ایرانی روزانه ۹ ساعت به صفحه نمایش نگاه می‌کنند
+https://www.zoomit.ir/iran-news/465309-internet-shutdown-policy-security-certificates/|معاون وزیر ارتباطات: محدودیت اینترنت، کسب‌وکارها را با بحران گواهی‌های SSL روبه‌رو کرد
