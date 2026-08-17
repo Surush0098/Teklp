@@ -5562,3 +5562,4 @@ https://www.zoomit.ir/mobile/465359-oneplus-16-display-upgrade-details/|گوشی
 https://www.zoomit.ir/social-network/465423-youtube-updates-view-counting-method/|روش شمارش بازدید ویدیوهای یوتیوب تغییر می‌کند
 https://www.zoomit.ir/robotics-smart-machines/465412-booster-t2-humanoid-robot-launched/|انجام کارهای واقعی در محیط‌های انسانی؛ ربات انسان‌نمای T2 رونمایی شد
 https://www.zoomit.ir/human-science/465131-why-some-people-feel-life-unfair/|وقتی هیچ‌چیز عادلانه نیست؛ سختی‌های زندگی چگونه جهان‌بینی ما را بازسازی می‌کنند؟
+https://www.zoomit.ir/security/465343-macos-screen-sharing-security-flaw/|باگ خطرناک macOS دست هکرها را برای کنترل کامل سیستم باز می‌کند
