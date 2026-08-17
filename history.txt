@@ -5537,3 +5537,4 @@ https://www.zoomit.ir/ai-articles/465324-ai-manager-fires-human-employee/|عصر
 https://www.zoomit.ir/health-medical/465355-professor-reverses-biological-age-by-15-years/|استاد سنگاپوری با ۹ ماه تغییر سبک زندگی، سن زیستی خود را ۱۵ سال کاهش داد
 https://www.zoomit.ir/tech-iran/465374-ecommerce-association-digital-regulation-filtering/|انجمن تجارت الکترونیک: تعدد نهادهای فیلترکننده، کسب‌وکارها را سردرگم کرده است
 https://www.zoomit.ir/pr/465402-ghabzino-industrial-electricity-purchase/|قبضینو؛ راهکاری برای خرید برق صنایع
+https://www.zoomit.ir/ai-articles/465400-claude-invisible-text-watermarks-synthid/|واترمارک‌های مخفی کلاد چگونه کار می‌کنند؟ آنتروپیک توضیح می‌دهد
