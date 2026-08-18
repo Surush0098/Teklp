@@ -5585,3 +5585,4 @@ https://www.zoomit.ir/iran-news/465460-workers-living-cost-july-1405/|هزینه
 https://www.zoomit.ir/tech-iran/465458-mobile-import-registration-started/|ثبت سفارش واردات گوشی آغاز شد؛ گره بازار موبایل باز می‌شود؟
 https://www.zoomit.ir/pr/465456-fori-apps-small-business-tools/|برنامه‌های فوری؛ ابزارهای کاربردی کسب و کار
 https://www.zoomit.ir/business/465413-uber-adds-zipline-drones-delivery/|اوبر حالا با پهپاد سفارش غذا را تحویل می‌دهد
+https://www.zoomit.ir/ai-articles/465439-reddit-ai-text-to-video/|هوش مصنوعی شگفت‌انگیز ردیت، پست‌ها را به پادکست و ویدیو کوتاه تبدیل می‌کند
