@@ -5577,3 +5577,4 @@ https://www.zoomit.ir/headset/465437-apple-camera-equipped-airpods-leak/|فور�
 https://www.zoomit.ir/tech/465438-macos-tahoe-unreleased-apple-devices/|بسیاری از محصولات عرضه‌نشده اپل در کد منبع macOS Tahoe 26.7 رؤیت شدند
 https://www.zoomit.ir/tech-iran/465406-jobvision-unemployment-costs-report-1405/|گزارش جاب‌ویژن: نیمی از بیکاران برای مدیریت مخارج هزینه‌های آموزش و درمان را کاهش داده‌اند
 https://www.zoomit.ir/security/465454-sharepoint-ai-assisted-exploit-chain/|هکرها با دورزدن SharePoint مایکروسافت، امنیت سیستم‌ها را به خطر می‌اندازند
+https://www.zoomit.ir/os/465393-galaxy-s22-lineageos-support-begins/|پشتیبانی از LineageOS سرانجام به گلکسی اس ۲۲ سامسونگ می‌آید
