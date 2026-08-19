@@ -5644,3 +5644,4 @@ https://www.zoomit.ir/ai-articles/465445-amazon-scans-destroys-rare-books/|یک 
 https://www.zoomit.ir/ai-articles/465503-openai-security-changes-after-hack/|اوپن‌ای‌آی در پی هک ناخواسته هاگینگ فیس، یک‌سری تغییرات امنیتی اعمال می‌کند
 https://www.zoomit.ir/ai-articles/465511-claude-gmail-auto-send-emails/|دسترسی بی‌سابقه و خطرناک هوش مصنوعی؛ کلاد حالا بدون نیاز به تأیید کاربر، ایمیل ارسال می‌کند
 https://www.zoomit.ir/business/465495-satya-nadella-microsoft-ceo-journey/|ساتیا نادلا ۵۹ ساله شد؛ مدیرعاملی که مسیر مایکروسافت را تغییر داد
+https://www.zoomit.ir/business/465446-dji-pentagon-legal-battle-win/|پهپادساز معروف چینی به پیروزی مقدماتی در دادگاه آمریکا دست یافت
