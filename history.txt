@@ -5910,3 +5910,4 @@ https://www.zoomit.ir/ai-articles/465767-nvidia-six-billion-poolside-ai/|شبی�
 https://www.zoomit.ir/energy-environment/465769-tesla-discontinues-solar-roof/|شکست پروژه سقف خورشیدی تسلا؛ ایلان ماسک از انرژی پاک فاصله می‌گیرد؟
 https://www.zoomit.ir/space/465754-closest-fastest-star-seen-orbiting-milky-way-black-hole/|سریع‌ترین ستاره راه شیری با ۸ درصد سرعت نور به دور سیاه‌چاله قلب کهکشان می‌چرخد
 https://www.zoomit.ir/hardware/465772-nvidia-ai-servers-price-hike/|ادامه بحران سخت‌افزار؛ انویدیا افزایش قیمت محصولات هوش مصنوعی را اعلام کرد
+https://www.zoomit.ir/ai-articles/465768-amazon-twitch-ai-lawsuit/|ادعای جنجالی استریمرهای توییچ درباره سرقت محتوا برای آموزش هوش مصنوعی
