@@ -6046,3 +6046,4 @@ https://www.zoomit.ir/processor/465958-openai-first-jalapeno-chip-results/|ان�
 https://www.zoomit.ir/ai-articles/465884-china-autonomous-vehicles-law-amendment/|مسئولیت تصادف خودروهای خودران با کیست؟ چین قوانین جاده‌ای را اصلاح می‌کند
 https://www.zoomit.ir/ai-articles/465895-grok-voice-starlink-customer-support/|هوش مصنوعی گراک حالا پشتیبان تلفنی اینترنت استارلینک است
 https://www.zoomit.ir/iran-news/465978-iran-power-plants-liquidity-incentives/|وزارت نیرو به نیروگاه‌های فعال مشوق می‌دهد؛ پاداش برای گزارش محل دقیق ماینرهای غیرمجاز
+https://www.zoomit.ir/tech-iran/465976-sana-system-disruption-judiciary-services/|اختلال در سامانه ثنا؛ ثبت درخواست‌های قضایی و پرداخت هزینه دادرسی با مشکل مواجه شد
