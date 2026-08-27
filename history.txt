@@ -6119,3 +6119,4 @@ https://www.zoomit.ir/wearables/466048-timex-expedition-field-post-titanium/|س�
 https://www.zoomit.ir/space/466081-nasa-spacecraft-ai-security-flaw/|کشف آسیب‌پذیری امنیتی در سامانه فرمان‌دهی فضاپیماهای ناسا با کمک هوش مصنوعی
 https://www.zoomit.ir/ai-articles/466090-google-gemini-notebook-books/|پایان جست‌وجوی سنتی؛ کتاب‌ها به هوش مصنوعی گوگل می‌آیند
 https://www.zoomit.ir/social-network/466089-twitter-now-launches-early-access/|پرنده آبی برگشت؛ احیای توییتر برای رقابت با ایکس!
+https://www.zoomit.ir/ai-articles/466088-google-gemini-omni-1-1-flash-video-controls/|گوگل از هوش مصنوعی «آمنی ۱٫۱ فلش» برای تولید ویدیوهای حرفه‌ای رونمایی کرد
