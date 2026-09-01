@@ -6222,3 +6222,4 @@ https://www.zoomit.ir/ai-articles/466248-amodei-genius-country-2027-ai-scenario/
 https://www.zoomit.ir/iran-news/466345-shatel-mobile-ninth-anniversary-gifts/|شاتل موبایل در نهمین سالروز راه‌اندازی شبکه خود اینترنت و مکالمه هدیه می‌دهد
 https://www.zoomit.ir/tech-iran/466337-technopay-taraz-risk-based-credit-scoring-elecomp/|رونمایی از سرویس «تراز» در الکامپ؛ رویکرد جدید تکنوپی در اعتبارسنجی برای عبور از محدودیت‌های بانکی
 https://www.zoomit.ir/human-science/466242-french-noblewoman-gold-wire-teeth/|راز اسکلت ۴۰۰ ساله فرانسوی؛ داستان زنی اشراف‌زاده که دندان‌هایش را با سیم طلا بسته بود
+https://www.zoomit.ir/ai-articles/466261-pathway-bdh-cq-ai-reasoning/|شکست هوش مصنوعی سنتی؛ مدل جدید Pathway با هزینه‌ای ۱۱ برابر کمتر از اوپن‌ای‌آی کار می‌کند
