@@ -6280,3 +6280,4 @@ https://www.zoomit.ir/ai-articles/466439-openai-astra-ai-safety-monitoring-conce
 https://www.zoomit.ir/mobile-learning/466332-turn-old-android-phone-network-monitor/|چطور گوشی اندرویدی قدیمی را به مانیتور شبکه تبدیل کنیم؟
 https://www.zoomit.ir/energy-environment/466374-agrivoltaics-solar-farming-cooling-efficiency/|پنل‌های خورشیدی می‌توانند گرمای مزارع را کاهش دهند
 https://www.zoomit.ir/space/466440-on-this-day-in-space-pioneer-11-visit-saturn/|چنین روزی در فضا؛ ۴۷ سال پیش به‌لطف پایونیر ۱۱ برای نخستین‌بار زحل را از نزدیک دیدیم
+https://www.zoomit.ir/ai-articles/466256-mit-warns-ai-undergrad-assignments/|هشدار تکان‌دهنده MIT: هوش مصنوعی می‌تواند تمام تکالیف دانشگاهی را انجام دهد
