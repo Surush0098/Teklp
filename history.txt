@@ -6277,3 +6277,4 @@ https://www.zoomit.ir/mobile/466418-galaxy-s27-ultra-exynos-snapdragon/|گوشی
 https://www.zoomit.ir/space/466305-roman-space-telescope-spycraft-featured/|چرا ناسا یک لنز جاسوسی را به اعماق کیهان فرستاد؟ داستان عجیب تلسکوپ رومن
 https://www.zoomit.ir/space/466438-iss-spacewalk-two-female-astronauts/|ششمین راهپیمایی فضایی کاملاً زنانه؛ فضانوردان دوربین و بازتابنده ایستگاه را تعویض کردند
 https://www.zoomit.ir/ai-articles/466439-openai-astra-ai-safety-monitoring-concerns/|ترس از فاجعه امنیتی؛ هوش مصنوعی جدید OpenAI نیامده پژوهشگران را نگران کرد
+https://www.zoomit.ir/mobile-learning/466332-turn-old-android-phone-network-monitor/|چطور گوشی اندرویدی قدیمی را به مانیتور شبکه تبدیل کنیم؟
