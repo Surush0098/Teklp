@@ -6373,3 +6373,4 @@ https://www.zoomit.ir/energy-environment/466384-climate-change-mountain-hazards-
 https://www.zoomit.ir/vr-ar/466528-apple-vision-pro-first-surgery/|استفاده از هدست ویژن پرو اپل در جراحی حساس مفصل ران؛ گامی فراتر از سرگرمی
 https://www.zoomit.ir/fundamental-science/466436-tiny-sound-powered-flying-robots/|پرواز بی‌موتور در دنیای میکروسکوپی؛ ساخت ریزربات‌هایی که با امواج صوتی کار می‌کنند
 https://www.zoomit.ir/linux/466493-run-linux-on-windows-without-rebooting/|چطور بدون خداحافظی با ویندوز، طعم لینوکس را بچشیم؟
+https://www.zoomit.ir/os/466547-lindows-microsoft-linux-trademark-battle/|لیندوز، سیستم‌عاملی که بلای جان ویندوز شد!
