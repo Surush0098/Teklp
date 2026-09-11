@@ -6588,3 +6588,4 @@ https://www.zoomit.ir/software-news/467002-meta-muse-ai-agent-launch/|اپلیک
 https://www.zoomit.ir/tablet/466946-xiaomi-pad-9-pro-geekbench/|شیائومی تبلت رده‌بالای «پد ۹ پرو» را با ۱۲ گیگابایت رم و اندروید ۱۷ تولید می‌کند
 https://www.zoomit.ir/mobile/466993-iphone-18-pro-repairability-slightly-better-than-17-pro/|تعمیر آیفون ۱۸ پرو کمی ساده‌تر از آیفون ۱۷ پرو است
 https://www.zoomit.ir/mobile/466944-xiaomi-18-pro-max-geekbench/|گوشی شیائومی ۱۸ پرو مکس با پردازنده پرقدرت اسنپدراگون رؤیت شد
+https://www.zoomit.ir/software-news/466956-nvidia-app-overlay-cpu-metrics/|آپدیت جدید اپلیکیشن انویدیا؛ حالا دمای CPU هم در حین بازی قابل مشاهده است
