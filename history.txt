@@ -6625,3 +6625,4 @@ https://www.zoomit.ir/pr/467058-nearby-vs-equipped-gym-guide/|باشگاه نز�
 https://www.zoomit.ir/tech-iran/467057-cbi-curb-currency-violations/|ردگیری ۲۷۱ متهم با ۳۰۰ همت تراکنش مشکوک؛ ارسال پرونده متخلفان ارزی به مراجع قضایی
 https://www.zoomit.ir/pr/467056-mobile-charging-stations-ux-advertising/|نوین شارژ تحلیل نقش ایستگاه‌های شارژ موبایل در ارتقای تجربه کاربری (UX) فضاهای تجاری و شهری
 https://www.zoomit.ir/car/467006-mg-07-locked-orders-china/|خودرو جدید ام‌جی در ۲۰ روز ۴۲ هزار سفارش ثبت کرد
+https://www.zoomit.ir/software-application/466968-open-source-apps-windows-default-features/|۳ اپلیکیشن متن‌باز قدرتمند که جایگزین بهتری برای قابلیت‌های پیش‌فرض ویندوز هستند
