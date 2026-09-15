@@ -6749,3 +6749,4 @@ https://www.zoomit.ir/software-application/467279-google-app-permissions-turn-of
 https://www.zoomit.ir/processor/467294-apple-m6-geekbench-benchmark-mac-mini-launch/|بنچمارک تراشه M6 اپل پیش از عرضه مک مینی لو رفت
 https://www.zoomit.ir/health-medical/467274-hot-drinks-esophageal-cancer-risk/|دمای نوشیدنی محبوب شما ممکن است با خطر سرطان مرتبط باشد
 https://www.zoomit.ir/os/467181-why-windows-blocks-con-folder/|چرا ویندوز اجازه نمی‌دهد پوشه‌ای به نام CON بسازید؟
+https://www.zoomit.ir/software-news/467202-windows-virtual-desktop-althernative/|۳ ابزار متن‌باز برای مدیریت دسکتاپ مجازی؛ فراتر از قابلیت‌های محدود ویندوز
