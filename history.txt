@@ -6969,3 +6969,4 @@ https://www.zoomit.ir/economics/467665-us-earnings-growth-gap-widens/|شکاف �
 https://www.zoomit.ir/wearables/467702-apple-developing-whoop-like-fitness-tracker/|اپل مچ‌بند بدون نمایشگر برای پایش سلامتی می‌سازد؛ ادعای منابع آگاه
 https://www.zoomit.ir/ai-articles/467700-anthropic-claude-opus-5-5-released-fable-performance/|آنتروپیک از Opus 5.5 پرده برداشت؛ هوش مصنوعی جنجالی، این‌بار ارزان‌تر و مهارپذیرتر
 https://www.zoomit.ir/energy-environment/467574-europe-largest-carbon-capture-project/|راه‌اندازی بزرگ‌ترین تأسیسات جذب کربن اروپا؛ حذف سالانه ۸۰۰هزار تن آلایندگی صنعتی
+https://www.zoomit.ir/computer-learning/467619-windows-ram-usage-electron-apps/|چرا بعضی برنامه‌ها رم کامپیوتر شما را می‌بلعند و چطور جلوی آن را بگیریم؟
