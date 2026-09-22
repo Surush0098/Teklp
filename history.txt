@@ -6957,3 +6957,4 @@ https://www.zoomit.ir/time-tunnel/467505-faraday-hinode-science-anniversaries-20
 https://www.zoomit.ir/software-news/467635-vibefarsi-ui-persian-ai-components/|وایب‌فارسی معرفی شد؛ کتابخانه رابط کاربری برای ساخت وب‌سایت و اپ‌ها به زبان فارسی
 https://www.zoomit.ir/tech-iran/467684-okala-fmcg-brands-sales-growth/|رشد برندهای FMCG در اُکالا؛ وقتی داده به موتور توسعه فروش تبدیل می‌شود
 https://www.zoomit.ir/mobile/467680-oneplus-n6-lite-launch/|وان‌پلاس N6 لایت با طراحی دوربین مشابه آیفون و باتری بزرگ رونمایی شد
+https://www.zoomit.ir/ai-articles/467685-meta-patches-muse-ai-exploit/|متا با انتشار به‌روزرسانی فوری، مشکل جنجالی هوش مصنوعی‌اش را برطرف کرد
