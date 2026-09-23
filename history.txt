@@ -6997,3 +6997,4 @@ https://www.zoomit.ir/software-news/467718-google-chrome-vertical-tabs-feature/|
 https://www.zoomit.ir/ai-articles/467775-gemini-3-8-text-to-speech-launch/|گوگل با معرفی دو هوش مصنوعی انقلابی، تولید صدا را وارد مرحله جدیدی کرد
 https://www.zoomit.ir/ai-articles/467773-anthropic-claude-biolab-crispr-discovery/|هوش مصنوعی کلاد یک دستاورد علمی شگفت‌انگیز ثبت کرد
 https://www.zoomit.ir/appliances/467762-samsung-smart-fridge-broken-update/|برخی از یخچال‌های سامسونگ با یک آپدیت نرم‌افزاری دچار مشکل شدند
+https://www.zoomit.ir/ai-articles/467686-ai-societal-harm-poll-concerns/|نتایج یک نظرسنجی: ۳۹ درصد آمریکایی‌ها می‌گویند هوش مصنوعی روی جامعه اثر منفی می‌گذارد
