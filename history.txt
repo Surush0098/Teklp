@@ -6993,3 +6993,4 @@ https://www.zoomit.ir/ai-articles/467724-openai-elite-mathematicians-panel/|خا
 https://www.zoomit.ir/tech-iran/467739-tehran-ftth-expansion-halted-municipality/|توسعه اینترنت در تهران قفل شده است؛ پشت پرده مخالفت شهرداری با حفاری‌ها
 https://www.zoomit.ir/iran-news/467738-illegal-online-medicine-platforms-crackdown/|پلتفرم‌های توزیع دارو زیر تیغ نظارت مجلس
 https://www.zoomit.ir/ai-articles/467723-rabbit-launches-os3-ai-agent/|بازگشت بی‌سروصدای ربیت؛ «سیستم‌عامل عامل‌محور» OS3 معرفی شد
+https://www.zoomit.ir/software-news/467718-google-chrome-vertical-tabs-feature/|تب‌های عمودی به‌صورت گسترده به گوگل کروم آمدند
