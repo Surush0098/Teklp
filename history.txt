@@ -6996,3 +6996,4 @@ https://www.zoomit.ir/ai-articles/467723-rabbit-launches-os3-ai-agent/|بازگ�
 https://www.zoomit.ir/software-news/467718-google-chrome-vertical-tabs-feature/|تب‌های عمودی به‌صورت گسترده به گوگل کروم آمدند
 https://www.zoomit.ir/ai-articles/467775-gemini-3-8-text-to-speech-launch/|گوگل با معرفی دو هوش مصنوعی انقلابی، تولید صدا را وارد مرحله جدیدی کرد
 https://www.zoomit.ir/ai-articles/467773-anthropic-claude-biolab-crispr-discovery/|هوش مصنوعی کلاد یک دستاورد علمی شگفت‌انگیز ثبت کرد
+https://www.zoomit.ir/appliances/467762-samsung-smart-fridge-broken-update/|برخی از یخچال‌های سامسونگ با یک آپدیت نرم‌افزاری دچار مشکل شدند
