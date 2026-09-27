@@ -7095,3 +7095,4 @@ https://www.zoomit.ir/wearables/467818-casio-g-steel-gst-b1000-launch/|کاسی�
 https://www.zoomit.ir/gadget/467899-xiaomi-pocket-guitar-accessory-announced/|گجت عجیب شیائومی، گوشی را به گیتار تبدیل می‌کند!
 https://www.zoomit.ir/business/467908-josh-payne-nscale-ai-ipo/|داستان موفقیت جوان ۳۲ ساله؛ از اعماق معدن زغال‌سنگ تا ورود ۳۵ میلیارد دلاری به بورس
 https://www.zoomit.ir/security/467914-teen-hacks-microsoft-titan-database/|هکر ۱۶ ساله با موفقیت به مایکروسافت نفوذ کرد؛ اما نه برای خراب‌کاری
+https://www.zoomit.ir/ai-articles/467876-how-to-create-ai-skills/|راهنمای ساخت و استفاده از اسکیل شخصی در هوش مصنوعی؛ از ChatGPT تا دیپ‌سیک
