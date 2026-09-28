@@ -7129,3 +7129,4 @@ https://www.zoomit.ir/aviation-aerospace/468066-spacex-starship-flight-14-orbita
 https://www.zoomit.ir/human-science/468024-why-people-resist-understanding-featured/|علم روان‌شناسی پاسخ می‌دهد: چرا بعضی آدم‌ها در برابر فهمیدن مقاومت می‌کنند؟
 https://www.zoomit.ir/aviation-aerospace/468075-starship-launches-first-operational-starlink-v3-satellites/|استارلینک V3 رسماً عملیاتی شد؛ نسل جدید ماهواره‌های اسپیس‌ایکس چه مزایایی دارند؟
 https://www.zoomit.ir/robotics-smart-machines/468015-zeroth-bridge-humanoid-robot-platform/|رونمایی از «بریج»؛ ربات انسان‌نمایی که برای مردم عادی ساخته نشده است
+https://www.zoomit.ir/ai-articles/468074-google-killing-gemini-gems-migrating-to-skills/|پایان کار Gemini Gems؛ گوگل قابلیت محبوب چت‌بات خود را بازنشسته می‌کند
