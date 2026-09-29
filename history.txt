@@ -7159,3 +7159,4 @@ https://www.zoomit.ir/ai-articles/468160-chatgpt-pro-500-dollar-subscription-gpt
 https://www.zoomit.ir/os/468159-windows-11-version-26h2-release/|آپدیت جدید ویندوز ۱۱ با سیستم نصب بسیار سریع منتشر شد؛ تجمیع قابلیت‌های یک سال اخیر
 https://www.zoomit.ir/ai-articles/468157-ai-researchers-warn-existential-threat-superintelligence/|ویدیویی برای ثبت در تاریخ: هشدار تکان‌دهنده دانشمندان درباره خطر انقراض انسان‌ها به دست هوش مصنوعی
 https://www.zoomit.ir/ai-articles/468156-openai-codex-reusable-cloud-environments-voice-cli-updates/|هوش مصنوعی کدنویس «کدکس» با چند قابلیت کاربردی متحول شد
+https://www.zoomit.ir/ai-articles/468155-openai-chatgpt-plugins-interactive-apps-automations/|تبدیل چت‌جی‌پی‌تی به سیستم‌عامل هوشمند با افزونه‌های تعاملی جدید!
