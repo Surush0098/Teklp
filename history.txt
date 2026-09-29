@@ -7138,3 +7138,4 @@ https://www.zoomit.ir/car/468103-tesla-roadster-demo-delayed-october/|رونما
 https://www.zoomit.ir/iran-news/468101-mobile140-kids-digital-balance-event/|«دیجیتال، به‌اندازه‌ی کودکی»؛ یک رویداد متفاوت در شوروم موبایل۱۴۰
 https://www.zoomit.ir/iran-news/468097-aref-high-councils-digital-economy/|عارف: شوراهای عالی به وظایف خود بپردازند و درگیر کار اجرایی نشوند
 https://www.zoomit.ir/iran-news/468091-melligold-central-bank-supervisory-system/|شکل‌گیری چارچوب‌های شفاف‌تر برای بازار طلای آنلاین؛ ملّی‌گلد به سامانه ناظر بانک مرکزی متصل شد
+https://www.zoomit.ir/os/468088-dutch-government-dumps-microsoft-for-nixos/|کوچ هلند از سیستم‌های مایکروسافت به لینوکس در پی تحریم‌های آمریکا
