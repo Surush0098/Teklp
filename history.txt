@@ -7133,3 +7133,4 @@ https://www.zoomit.ir/ai-articles/468074-google-killing-gemini-gems-migrating-to
 https://www.zoomit.ir/os/468085-google-researcher-windows-nt-vs-linux/|پژوهشگر گوگل: معماری ویندوز NT یک شاهکار مهندسی است که لینوکس را خجالت‌زده می‌کند
 https://www.zoomit.ir/iran-news/468106-flytoday-launches-accommodation-booking-service/|فلای تودی سرویس اقامتگاه راه‌اندازی کرد؛ بدون کارمزد برای مهمان، بدون کمیسیون برای میزبان
 https://www.zoomit.ir/iran-news/468099-fake-wedding-invitation-malware-warning/|کلاهبرداران با یک «کارت دعوت عروسی» گوشی شما را به بدافزار آلوده می‌کنند
+https://www.zoomit.ir/business/468086-amd-acquires-world-labs-ai/|ای‌ام‌دی در قراردادی ۸٫۲ میلیارد دلاری، شرکت هوش مصنوعی «ورلد لبز» را تصاحب می‌کند
