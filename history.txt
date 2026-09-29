@@ -7132,3 +7132,4 @@ https://www.zoomit.ir/robotics-smart-machines/468015-zeroth-bridge-humanoid-robo
 https://www.zoomit.ir/ai-articles/468074-google-killing-gemini-gems-migrating-to-skills/|پایان کار Gemini Gems؛ گوگل قابلیت محبوب چت‌بات خود را بازنشسته می‌کند
 https://www.zoomit.ir/os/468085-google-researcher-windows-nt-vs-linux/|پژوهشگر گوگل: معماری ویندوز NT یک شاهکار مهندسی است که لینوکس را خجالت‌زده می‌کند
 https://www.zoomit.ir/iran-news/468106-flytoday-launches-accommodation-booking-service/|فلای تودی سرویس اقامتگاه راه‌اندازی کرد؛ بدون کارمزد برای مهمان، بدون کمیسیون برای میزبان
+https://www.zoomit.ir/iran-news/468099-fake-wedding-invitation-malware-warning/|کلاهبرداران با یک «کارت دعوت عروسی» گوشی شما را به بدافزار آلوده می‌کنند
