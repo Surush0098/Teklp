@@ -7273,3 +7273,4 @@ https://www.zoomit.ir/iran-news/468604-iran-central-bank-hesam-system/|راه‌
 https://www.zoomit.ir/ai-articles/468615-mistral-unveils-1t-parameter-mistral-large-4-model/|مدل ML4 رونمایی شد؛ هوش مصنوعی یک‌ تریلیون پارامتری اروپا
 https://www.zoomit.ir/car/468509-honda-dynamic-wireless-ev-charging/|هوندا شارژ بی‌سیم کامیون‌های در حال حرکت را آزمایش می‌کند
 https://www.zoomit.ir/ai-articles/468613-pinterest-ai-beauty-guides-salon-plans/|دیگر لازم نیست مدل موی دلخواهتان را برای آرایشگر توضیح دهید؛ پینترست این کار را می‌کند
+https://www.zoomit.ir/software-application/468544-optimizerduck-windows-optimization-guide/|افزایش سرعت ویندوز با چند کلیک؛ آموزش نرم‌افزار optimizerDuck
