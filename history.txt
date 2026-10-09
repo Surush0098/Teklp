@@ -7308,3 +7308,4 @@ https://www.zoomit.ir/business/468741-xbox-launches-xp-division-movies/|ایکس
 https://www.zoomit.ir/tablet/468730-ipad-mini-8-oled-display/|نمایشگر اولد به آیپد مینی می‌آید؟
 https://www.zoomit.ir/ai-articles/468739-google-cloud-announces-gemini-agent/|واگذاری امور اداری و سازمانی به هوش مصنوعی؛ «جمنای ایجنت» گوگل معرفی شد
 https://www.zoomit.ir/internet-network/468724-fcc-direct-to-device-spectrum/|جنگ فرکانس‌ها؛ تلاش اسپیس‌ایکس و آمازون برای تسلط بر آسمان با طیف فرکانسی جدید
+https://www.zoomit.ir/security/468773-midnight-mimosa-android-malware/|بدافزار خطرناکی که در کمین گوشی‌های ارزان‌قیمت اندرویدی است
