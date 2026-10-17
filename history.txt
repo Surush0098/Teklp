@@ -7394,3 +7394,4 @@ https://www.zoomit.ir/human-science/469301-lake-mead-barrel-body-identified/|پ�
 https://www.zoomit.ir/mobile/469247-redmi-k100-green-variant-revealed/|مدل سبز گوشی ردمی K100 برای اولین‌بار به‌نمایش درآمد
 https://www.zoomit.ir/iran-news/469305-mci-iot-smart-home-solutions/|توسعه خدمات اینترنت اشیاء برای خانه‌های هوشمند
 https://www.zoomit.ir/iran-news/469304-iran-online-population-census-begins/|رئیس مرکز آمار: سرشماری اینترنتی نفوس و مسکن آغاز شد؛ پیامک‌ها از امروز ارسال می‌شوند
+https://www.zoomit.ir/os/469288-year-2038-bug-unix-systems/|باگ سال ۲۰۳۸ هنوز برخی از سیستم‌ها را تهدید می‌کند
