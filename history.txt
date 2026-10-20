@@ -7423,3 +7423,4 @@ https://www.zoomit.ir/mobile/469415-samsung-galaxy-a56-oneui-update/|آپدیت 
 https://www.zoomit.ir/gaming/469391-driveclub-native-pc-port-recomp/|بازی افسانه‌ای Driveclub حالا روی پی‌سی اجرا می‌شود؛ اما به‌صورت غیررسمی
 https://www.zoomit.ir/pr/469408-ehrazino-identity-banking-inquiry-api/|معرفی خدمات API احرازینو برای استعلام بانکی، بررسی هویت و هوش مصنوعی کسب‌وکارها
 https://www.zoomit.ir/economics/469406-elon-musk-spacex-stock-children/|ایلان ماسک ۱۰٫۵ میلیارد دلار به کودکان آمریکایی هدیه می‌دهد
+https://www.zoomit.ir/car/469413-rivian-point-to-point-autonomy/|آزمون خودران «ریویان» شروع شد؛ رایگان، اما با داده‌های دوربین و موقعیت مکانی
