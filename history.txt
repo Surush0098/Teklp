@@ -7460,3 +7460,4 @@ https://www.zoomit.ir/tech-iran/469566-sarafraz-internet-governance-satellite-st
 https://www.zoomit.ir/os/469480-windows-11-block-refs-usb/|تغییر بزرگ در ویندوز ۱۱؛ مایکروسافت دسترسی به فلش‌مموری‌های ReFS را مسدود می‌کند
 https://www.zoomit.ir/mobile/469552-samsung-one-ui-9-galaxy-a35-m36/|دو گوشی میان‌رده سامسونگ آپدیت بزرگ One UI 9 را دریافت کردند
 https://www.zoomit.ir/graphic/469534-rtx-6060-delayed-to-2029/|کارت گرافیک RTX 6060 انویدیا شاید تا سال ۲۰۲۹ عرضه نشود
+https://www.zoomit.ir/ai-articles/469533-google-gemini-cars-personal-intelligence/|از جیمیل تا گوگل فوتوز؛ هوش مصنوعی جمنای به دستیار شخصی راننده‌ها تبدیل می‌شود
