@@ -7496,3 +7496,4 @@ https://www.zoomit.ir/car/469652-tesla-fsd-fatal-i80-pedestrian-crash/|عابر 
 https://www.zoomit.ir/health-medical/469650-microsoft-ai-outperforms-doctors-diagnosis/|هوش مصنوعی مایکروسافت پزشکان را در تشخیص بیماری پشت سر گذاشت
 https://www.zoomit.ir/software-news/469649-arc-browser-shutdown-dia-migration/|«آرک» تعطیل می‌شود؛ مرورگری که می‌خواست تعامل با وب را بازتعریف کند
 https://www.zoomit.ir/health-medical/469635-brain-processes-emotions-face-voice/|مغز ما برای شناخت احساسات، تصویر و صدا را با هم ترکیب می‌کند
+https://www.zoomit.ir/security/469648-python-emudhra-certificate-vulnerability-pip/|هشدار به کاربران پایتون؛ احتمال نصب بدافزار به‌دلیل نقص خطرناک گواهی‌های دیجیتال
