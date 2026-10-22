@@ -7494,3 +7494,4 @@ https://www.zoomit.ir/biology/469639-bottlenose-whales-social-support-sickness/|
 https://www.zoomit.ir/security/469654-unauthorized-ai-agents-us-bank-accounts/|بحران عجیب بانک‌های آمریکایی: ورود غیرقانونی هوش مصنوعی به حساب‌ها
 https://www.zoomit.ir/car/469652-tesla-fsd-fatal-i80-pedestrian-crash/|عابر ۷۱ ساله پس از تصادف با خودرو تسلا جان باخت؛ راننده می‌گوید FSD فعال بود
 https://www.zoomit.ir/health-medical/469650-microsoft-ai-outperforms-doctors-diagnosis/|هوش مصنوعی مایکروسافت پزشکان را در تشخیص بیماری پشت سر گذاشت
+https://www.zoomit.ir/software-news/469649-arc-browser-shutdown-dia-migration/|«آرک» تعطیل می‌شود؛ مرورگری که می‌خواست تعامل با وب را بازتعریف کند
