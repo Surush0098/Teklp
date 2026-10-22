@@ -7497,3 +7497,4 @@ https://www.zoomit.ir/health-medical/469650-microsoft-ai-outperforms-doctors-dia
 https://www.zoomit.ir/software-news/469649-arc-browser-shutdown-dia-migration/|«آرک» تعطیل می‌شود؛ مرورگری که می‌خواست تعامل با وب را بازتعریف کند
 https://www.zoomit.ir/health-medical/469635-brain-processes-emotions-face-voice/|مغز ما برای شناخت احساسات، تصویر و صدا را با هم ترکیب می‌کند
 https://www.zoomit.ir/security/469648-python-emudhra-certificate-vulnerability-pip/|هشدار به کاربران پایتون؛ احتمال نصب بدافزار به‌دلیل نقص خطرناک گواهی‌های دیجیتال
+https://www.zoomit.ir/mobile/469602-zte-nubia-a76-4g-announced/|گوشی جدید نوبیا با قیمت منطقی و نمایشگر بزرگ معرفی شد
