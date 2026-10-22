@@ -7473,3 +7473,4 @@ https://www.zoomit.ir/gaming/469584-ea-shuts-down-bioware-mass-effect-cancelled/
 https://www.zoomit.ir/security/469538-tech-giants-block-compromised-certificates/|حفره‌ای در کلیدهای رمزنگاری که جعل هر وب‌سایتی را ممکن می‌کرد
 https://www.zoomit.ir/gaming/469594-ea-sports-open-world-football/|تغییر بزرگ در دنیای فوتبال؛ ساخت بازی فوتبال جهان‌باز تأیید شد
 https://www.zoomit.ir/mobile/469591-samsung-renewed-galaxy-phones-amazon/|گوشی‌های «بازسازی‌شده» سامسونگ با قیمت کمتر عرضه شدند؛ از S24 FE تا S25 Ultra
+https://www.zoomit.ir/ai-articles/469593-anthropic-claude-duet-ai-agent/|کلاد دوئت رونمایی شد؛ عامل هوش مصنوعی قدرتمند آنتروپیک برای رقابت با «میوس» و «داتس»
