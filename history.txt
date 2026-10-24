@@ -7566,3 +7566,4 @@ https://www.zoomit.ir/security/469699-japan-ai-cyberattack-simulation-php/|ژا�
 https://www.zoomit.ir/fundamental-science/469728-antimatter-particle-trapped-for-month/|دانشمندان ذره پادماده را برای یک ماه در تله‌ای نامرئی نگه داشتند
 https://www.zoomit.ir/business/469705-openai-safety-researchers-fired/|چت‌های لورفته‌ای که به اخراج ۳ دانشمند اوپن‌ای‌آی انجامید
 https://www.zoomit.ir/aviation-aerospace/469784-ukraine-wants-build-own-satellite-communication-network/|اوکراین با همکاری نوکیا درصدد راه‌اندازی شبکه اینترنت ماهواره‌ای خود است
+https://www.zoomit.ir/business/469700-ai-agents-replace-firm-staff/|پشت‌صحنه ساخت یک شرکت تک‌نفره با چهار عامل هوش مصنوعی!
