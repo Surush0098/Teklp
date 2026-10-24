@@ -7538,3 +7538,4 @@ https://www.zoomit.ir/software-news/469754-india-sim-binding-messaging-apps/|ا�
 https://www.zoomit.ir/business/469739-apple-doj-antitrust-evidence-dispute/|نبرد تازه‌ اپل و وزارت دادگستری آمریکا بر سر میلیون‌ها سند
 https://www.zoomit.ir/iran-news/469753-iran-internet-tariff-increase-parliament/|عضو کمیسیون صنایع مجلس: افزایش چندباره تعرفه اینترنت در سال قابل قبول نیست
 https://www.zoomit.ir/iran-news/469741-schools-mobile-phone-cctv-rules/|استفاده از موبایل در کلاس درس قانونی شد
+https://www.zoomit.ir/ai-articles/469732-openai-trains-models-without-internet/|اوپن‌ای‌آی حالا هوش مصنوعی پرچمدارش را بدون اینترنت آموزش می‌دهد
